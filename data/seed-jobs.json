@@ -1,0 +1,13 @@
+{
+  "version": "1.5.1",
+  "generatedAt": "2026-11-10",
+  "notice": "本文件由 `npm run build:site` 从岗位库实时导出。官方渠道岗位保留原文投递链接；演示岗位为虚构数据，仅用于防骗教学。",
+  "stats": {
+    "total": 0,
+    "real": 0,
+    "fakeSamples": 0,
+    "bySource": {}
+  },
+  "jobs": [],
+  "fakeSamples": []
+}

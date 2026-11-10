@@ -1,0 +1,8 @@
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: no-referrer-when-downgrade
+/index.html
+  Cache-Control: no-cache
+/sw.js
+  Cache-Control: no-cache
