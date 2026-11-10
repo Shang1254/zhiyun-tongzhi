@@ -1,0 +1,17 @@
+{
+  "name": "知云同职 · 民办生公益求职助手",
+  "short_name": "知云同职",
+  "description": "面向民办高校学生的公益求职助手：岗位库、虚假岗过滤、简历生成、拼车同行。永久免费，无广告。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f8ff",
+  "theme_color": "#1e6fff",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

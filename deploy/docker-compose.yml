@@ -1,0 +1,21 @@
+services:
+  zhiyun:
+    build:
+      context: .
+      dockerfile: deploy/Dockerfile
+    image: zhiyun-tongzhi:latest
+    container_name: zhiyun
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - TZ=Asia/Shanghai
+      - ZY_RATE_LIMIT=120
+      - ZY_WRITE_LIMIT=20
+      - PUBLIC_BASE_URL=${PUBLIC_BASE_URL:-}
+    volumes:
+      - zhiyun-data:/data
+
+volumes:
+  zhiyun-data:

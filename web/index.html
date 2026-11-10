@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1e6fff">
+<meta name="description" content="知云同职：面向民办高校学生的公益求职助手。官方岗位库、虚假岗过滤、简历生成、拼车同行。永久免费，无广告，数据本地加密。">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="知云同职">
+<title>知云同职 · 民办生公益求职助手</title>
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<div id="app">
+
+  <!-- ========== 顶部品牌栏 ========== -->
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-logo">知</div>
+      <div>
+        <div class="brand-name">知云同职</div>
+        <div class="brand-slogan">民办生公益求职助手 · 永久免费</div>
+      </div>
+    </div>
+    <div class="brand-badge">公益版</div>
+  </header>
+
+  <main id="pages">
+
+    <!-- ========== 模块一：岗位库 ========== -->
+    <section id="page-jobs" class="page active">
+      <div class="search-row">
+        <input id="job-keyword" type="search" placeholder="搜索职位、公司关键词" autocomplete="off">
+        <button id="job-search-btn" class="btn btn-primary">搜索</button>
+      </div>
+
+      <div class="filter-block">
+        <div class="filter-row">
+          <select id="filter-province" class="province-select" aria-label="按省份筛选">
+            <option value="">全部省份</option>
+          </select>
+        </div>
+        <div class="filter-row" id="filter-city"></div>
+        <div class="filter-row" id="filter-category"></div>
+        <div class="filter-row" id="filter-edu"></div>
+      </div>
+
+      <div class="fake-banner" id="fake-banner" hidden></div>
+
+      <div class="job-list" id="job-list"></div>
+      <div class="list-foot" id="job-list-foot"></div>
+    </section>
+
+    <!-- ========== 模块二：简历生成 ========== -->
+    <section id="page-resume" class="page">
+      <div class="sec-title">定制简历 <span class="sec-sub">突出民办生的实践项目优势</span></div>
+      <div class="tip-card">简历数据仅保存在本机（加密存储），绝不外传。实践项目会自动置顶展示。</div>
+
+      <form id="resume-form" autocomplete="off">
+        <div class="card form-card">
+          <div class="card-t">基本信息</div>
+          <div class="grid2">
+            <label>姓名<input name="name" required placeholder="张同学"></label>
+            <label>电话<input name="phone" placeholder="138xxxxxxxx"></label>
+            <label>邮箱<input name="email" type="email" placeholder="you@example.com"></label>
+            <label>毕业年份<input name="gradYear" placeholder="2026"></label>
+          </div>
+        </div>
+
+        <div class="card form-card">
+          <div class="card-t">教育背景</div>
+          <div class="grid2">
+            <label>学校<input name="school" placeholder="XX学院"></label>
+            <label>专业<input name="major" placeholder="电子商务"></label>
+            <label>学历
+              <select name="degree">
+                <option>大专</option><option selected>本科</option><option>硕士</option>
+              </select>
+            </label>
+            <label>在校时间<input name="eduRange" placeholder="2022-09 ~ 2026-06"></label>
+          </div>
+        </div>
+
+        <div class="card form-card">
+          <div class="card-t">求职意向</div>
+          <div class="grid2">
+            <label>目标岗位<input name="direction" placeholder="新媒体运营"></label>
+            <label>意向城市<input name="city" placeholder="武汉"></label>
+          </div>
+        </div>
+
+        <div class="card form-card">
+          <div class="card-t">实践项目经历 <button type="button" class="btn btn-ghost btn-sm" id="add-project">+ 添加一段</button></div>
+          <div id="project-list"></div>
+        </div>
+
+        <div class="card form-card">
+          <div class="card-t">技能与证书</div>
+          <label>技能（逗号分隔）<input name="skills" placeholder="Excel 数据透视表, 剪映剪辑, Python 基础"></label>
+          <label>证书（逗号分隔）<input name="certs" placeholder="英语四级, 初级会计证"></label>
+        </div>
+
+        <div class="form-actions">
+          <button type="button" class="btn btn-primary btn-lg" id="btn-preview">生成简历预览</button>
+        </div>
+      </form>
+    </section>
+
+    <!-- ========== 模块三：个人中心 ========== -->
+    <section id="page-me" class="page">
+      <div class="sec-title">个人中心</div>
+
+      <div class="card">
+        <div class="card-t">我的求职画像 <span class="sec-sub">用于每日为你挑 3 条岗位</span></div>
+        <div class="grid2">
+          <label>求职方向<input id="pf-direction" placeholder="如：运营 / 测试 / 客服"></label>
+          <label>意向城市<input id="pf-city" placeholder="如：武汉"></label>
+          <label>学历
+            <select id="pf-education">
+              <option value="不限">不限</option><option value="大专">大专</option>
+              <option value="本科">本科</option><option value="硕士">硕士</option>
+            </select>
+          </label>
+        </div>
+        <div class="row-btns">
+          <button class="btn btn-primary" id="pf-save">保存画像并刷新推荐</button>
+          <span id="pf-save-state" class="save-state"></span>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-t">今日推荐 <span class="sec-sub" id="digest-date"></span></div>
+        <div id="digest-list"><div class="empty">加载中…</div></div>
+      </div>
+
+      <div class="card">
+        <div class="card-t">隐私与数据</div>
+        <ul class="privacy-list">
+          <li>简历与画像保存在<b>本机加密存储</b>（AES），不上传任何服务器</li>
+          <li>岗位推荐只使用「方向 / 城市 / 学历」三个匿名匹配字段</li>
+          <li>本应用<b>无广告、无付费入口</b>，永久免费</li>
+          <li id="crypto-state">加密状态：检测中…</li>
+        </ul>
+        <div class="row-btns">
+          <button class="btn btn-ghost" id="btn-export-data">导出我的数据</button>
+          <button class="btn btn-danger-ghost" id="btn-clear-data">清空本地数据</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-t">🛡 防骗检测 <span class="sec-sub">13 类常见诈骗识别</span></div>
+        <div class="tip-mini" style="margin:0 0 8px">收到可疑短信 / 兼职信息 / 退款电话话术 / 陌生链接？粘贴进来帮你研判。</div>
+        <label class="full"><textarea id="af-text" rows="3" placeholder="例：我是XX学院老师，你的课程要退费，加群领取…"></textarea></label>
+        <div class="row-btns">
+          <button class="btn btn-primary" id="af-check">检测风险</button>
+          <span class="save-state" id="af-state"></span>
+        </div>
+        <div id="af-result" hidden></div>
+      </div>
+
+      <div class="card">
+        <div class="card-t">服务连接</div>
+        <label>数据服务地址<input id="srv-url" placeholder="http://192.168.x.x:3000"></label>
+        <div class="row-btns">
+          <button class="btn btn-ghost" id="srv-test">测试连接</button>
+          <span id="srv-state" class="save-state"></span>
+        </div>
+        <div class="tip-mini">不连接服务时，应用使用内置岗位库离线运行；手机端填写电脑的局域网 IP 即可获取每日更新。</div>
+      </div>
+
+      <div class="about">
+        <div>知云同职 v1.5.1 · 公益开源项目</div>
+        <div>演示岗位数据均为虚构，仅供学习防骗教育使用</div>
+      </div>
+    </section>
+
+    <!-- ========== 模块四：拼车同行 ========== -->
+    <section id="page-ride" class="page">
+      <div class="sec-title">拼车同行 <span class="sec-sub">回家的路，找个同路人</span></div>
+
+      <div class="tip-card" id="ride-disclaimer-top">
+        🚗 公益信息板：平台不组织拼车、不收费、不担保安全。出行前请核实对方身份（建议同校学生证），费用自行协商；<b>凡是先要钱的，一律不信</b>。
+      </div>
+
+      <div class="card">
+        <div class="card-t">发布拼车信息</div>
+        <div class="ride-type-row">
+          <button type="button" class="chip active" data-ride-type="找车">🧍 我找车</button>
+          <button type="button" class="chip" data-ride-type="带人">🚙 我带人</button>
+        </div>
+        <div class="grid2">
+          <label>出发地（市）<input id="ride-from" placeholder="如：武汉"></label>
+          <label>目的地（市）<input id="ride-to" placeholder="如：荆州"></label>
+          <label>出发日期<input id="ride-date" type="date"></label>
+          <label>出发时段<input id="ride-time" placeholder="如：08:00-12:00"></label>
+          <label>人数
+            <select id="ride-seats">
+              <option>1</option><option>2</option><option>3</option>
+              <option>4</option><option>5</option><option>6</option>
+            </select>
+          </label>
+          <label>联系方式类型
+            <select id="ride-contact-type">
+              <option>微信</option><option>电话</option>
+            </select>
+          </label>
+          <label class="full">联系方式（发布后对其他同学可见）<input id="ride-contact" placeholder="微信号或手机号"></label>
+          <label class="full">备注（路线/费用分摊想法，≤200字）<textarea id="ride-note" rows="2" placeholder="例：走沪渝高速，可顺路沿线上下，费用AA"></textarea></label>
+        </div>
+        <label class="ride-agree"><input type="checkbox" id="ride-agree"> 我已阅读并同意免责声明：信息由本人自愿公开，出行安全与费用与平台无关</label>
+        <div class="row-btns">
+          <button class="btn btn-primary" id="ride-publish">发布</button>
+          <span id="ride-pub-state" class="save-state"></span>
+        </div>
+      </div>
+
+      <div class="card" id="ride-mine-card" hidden>
+        <div class="card-t">我的发布 <span class="sec-sub">凭本机保存的删除令牌可下架</span></div>
+        <div id="ride-mine-list"></div>
+      </div>
+
+      <div class="filter-block">
+        <div class="filter-row">
+          <input id="ride-filter-from" placeholder="出发地筛选，如：武汉" style="flex:1">
+          <input id="ride-filter-to" placeholder="目的地筛选，如：荆州" style="flex:1">
+          <button class="btn btn-ghost btn-sm" id="ride-filter-btn">筛选</button>
+        </div>
+      </div>
+
+      <div class="ride-list" id="ride-list"><div class="empty">加载中…</div></div>
+      <div class="about" style="margin-top:6px">
+        <div>信息由同学自愿发布 · 出发日 7 天后自动清理 · 违规信息请点举报</div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ========== 底部导航 ========== -->
+  <nav class="tabbar" id="tabbar">
+    <button class="tab active" data-tab="jobs"><span class="tab-ico">🗂</span>岗位库</button>
+    <button class="tab" data-tab="resume"><span class="tab-ico">📄</span>简历生成</button>
+    <button class="tab" data-tab="ride"><span class="tab-ico">🚗</span>拼车</button>
+    <button class="tab" data-tab="me"><span class="tab-ico">👤</span>个人中心</button>
+  </nav>
+
+  <!-- ========== 岗位详情抽屉 ========== -->
+  <div class="sheet-mask" id="sheet-mask" hidden></div>
+  <div class="sheet" id="job-sheet" hidden></div>
+
+  <!-- ========== 简历预览 ========== -->
+  <div class="preview-mask" id="preview-mask" hidden>
+    <div class="preview-wrap">
+      <div class="preview-bar">
+        <button class="btn btn-ghost" id="pv-close">关闭</button>
+        <div class="preview-title">简历预览（A4）</div>
+        <button class="btn btn-primary" id="pv-export">导出 PDF</button>
+      </div>
+      <div class="preview-scroll"><iframe id="pv-frame" title="简历预览"></iframe></div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast" hidden></div>
+</div>
+
+<script src="vendor/crypto-js.min.js"></script>
+<script src="vendor/html2pdf.bundle.min.js"></script>
+<script src="js/config.js"></script>
+<script src="js/crypto.js"></script>
+<script src="js/fraudGuard.js"></script>
+<script src="js/api.js"></script>
+<script src="js/jobs.js"></script>
+<script src="js/ride.js"></script>
+<script src="js/resume.js"></script>
+<script src="js/profile.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

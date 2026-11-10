@@ -1,0 +1,31 @@
+# 知云同职 · Render 一键部署（https://render.com）
+# 用法：把仓库推到 GitHub/GitLab → Render 新建 Blueprint → 自动读取本文件
+#
+# 免费实例说明：
+#   - 空闲 15 分钟会休眠，被访问时冷启动约 30-60 秒
+#   - 免费实例的磁盘是临时的，重启后 SQLite 回到初始演示库；
+#     需要保住采集岗位与拼车信息，请挂 $7/月 的 Persistent Disk（path 填 /var/data）
+
+services:
+  - type: web
+    name: zhiyun-tongzhi
+    runtime: node
+    plan: free
+    region: singapore
+    rootDir: server
+    buildCommand: PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1 npm ci --omit=dev --no-audit --no-fund
+    startCommand: node src/index.js
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: TZ
+        value: Asia/Shanghai
+      - key: HOST
+        value: 0.0.0.0
+      - key: ZY_DATA_DIR
+        value: /var/data
+      - key: ZY_RATE_LIMIT
+        value: 120
+      - key: ZY_WRITE_LIMIT
+        value: 20

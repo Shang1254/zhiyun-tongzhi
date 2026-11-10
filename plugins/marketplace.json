@@ -1,0 +1,18 @@
+{
+  "name": "dev-app-eb451b06",
+  "plugins": [
+    {
+      "name": "zhiyun-job-fetcher",
+      "source": "./zhiyun-job-fetcher",
+      "version": "0.1.0",
+      "description": "知云同职官方岗位自动采集Agent（合规落地版）：礼貌采集人社部中国公共招聘网与湖北民办高校就业联盟公开岗位入库，ncss 仅探测走机构对接，含合规红线、分站点指引、报告解读与 /collect-jobs 命令",
+      "displayName": "Zhiyun Job Fetcher",
+      "displayName_i18n": {
+        "zh-CN": "知云同职·官方岗位采集Agent"
+      },
+      "description_i18n": {
+        "zh-CN": "合规采集人社部公共招聘网与湖北高校就业联盟公开岗位入库，解读采集报告，ncss 仅探测走机构对接"
+      }
+    }
+  ]
+}

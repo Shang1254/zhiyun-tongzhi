@@ -1,0 +1,21 @@
+# 知云同职 · 反向代理示例（Caddy 自动申请 HTTPS 证书）
+#
+# Ubuntu/Debian 安装：apt install -y caddy
+# 启用：把本文件复制到 /etc/caddy/Caddyfile（改掉域名），然后 systemctl reload caddy
+# 前置：域名 A 记录已解析到本机公网 IP；云服务器安全组放行 80/443。
+
+zhiyun.example.com {
+	encode zstd gzip
+	reverse_proxy 127.0.0.1:3000
+
+	header {
+		X-Content-Type-Options nosniff
+		X-Frame-Options SAMEORIGIN
+		Referrer-Policy no-referrer-when-downgrade
+		-Server
+	}
+
+	# 静态资源可长缓存，页面与数据保持最新
+	@assets path /css/* /js/* /vendor/* /icons/*
+	header @assets Cache-Control "public, max-age=3600"
+}

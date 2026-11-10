@@ -1,0 +1,13 @@
+# Docker 构建上下文忽略清单（node_modules 由镜像内 npm ci 安装）
+node_modules
+**/node_modules
+android/.gradle
+android/app/build
+dist
+server/data/zhiyun.db*
+server/data/logs
+server/data/reports
+*.log
+*.apk
+.zcode
+.git

@@ -1,0 +1,46 @@
+# 知云同职 · Fly.io 部署配置（https://fly.io）
+#
+# 首次部署：
+#   fly auth login
+#   fly launch --no-deploy --copy-config --name zhiyun-tongzhi
+#   fly volumes create zhiyun_data --size 1 --region sin
+#   fly deploy
+#
+# 说明：单机 512MB 足够；SQLite 落在 /data 持久卷，重启不丢数据。
+
+app = "zhiyun-tongzhi"
+primary_region = "sin"
+
+[build]
+  dockerfile = "deploy/Dockerfile"
+
+[env]
+  NODE_ENV = "production"
+  PORT = "8080"
+  HOST = "0.0.0.0"
+  ZY_DATA_DIR = "/data"
+  TZ = "Asia/Shanghai"
+
+[[mounts]]
+  source = "zhiyun_data"
+  destination = "/data"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = "stop"
+  auto_start_machines = true
+  min_machines_running = 0
+  processes = ["app"]
+
+  [[http_service.checks]]
+    grace_period = "20s"
+    interval = "30s"
+    method = "GET"
+    path = "/api/health"
+    timeout = "5s"
+
+[[vm]]
+  cpu_kind = "shared"
+  cpus = 1
+  memory_mb = 512

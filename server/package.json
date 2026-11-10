@@ -1,0 +1,25 @@
+{
+  "name": "zhiyun-tongzhi-server",
+  "version": "1.0.0",
+  "description": "知云同职 - 民办生公益求职助手 轻后端（Express + SQLite + 定时任务）",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js",
+    "selfcheck": "node src/selfcheck.js",
+    "build:site": "node scripts/build-site.js",
+    "smoke": "node scripts/smoke.js",
+    "city-index": "node src/fetcher/cityIndex.js",
+    "fetch": "node src/fetcher/run.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.5.0",
+    "cheerio": "^1.2.0",
+    "china-division": "^2.7.0",
+    "express": "^4.21.2",
+    "iconv-lite": "^0.7.3",
+    "node-cron": "^3.0.3",
+    "playwright": "^1.65.0"
+  }
+}

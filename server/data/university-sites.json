@@ -1,0 +1,13 @@
+{
+  "notice": "知云同职高校采集站点清单。全部站点属于湖北高校就业智能网络服务平台（才立方 91wllm）联盟，共用同一套系统与全省共享岗位库，适配器 server/src/fetcher/wllm.js 按 sub 子域名覆盖全部站点。",
+  "priorityOrder": "晴川优先（用户指定），其余按用户后续扩展顺序排列",
+  "sites": [
+    { "name": "武汉晴川学院", "sub": "qcuwh", "enabled": true },
+    { "name": "武汉东湖学院", "sub": "whdhxy", "enabled": false },
+    { "name": "武昌首义学院", "sub": "wsyu", "enabled": false },
+    { "name": "文华学院", "sub": "wenhua", "enabled": false },
+    { "name": "武昌工学院", "sub": "wuit", "enabled": false },
+    { "name": "汉口学院", "sub": "hkxy", "enabled": false },
+    { "name": "武汉工商学院", "sub": "wtbu", "enabled": false }
+  ]
+}
