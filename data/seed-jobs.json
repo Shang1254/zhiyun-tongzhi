@@ -3,11 +3,2877 @@
   "generatedAt": "2026-11-10",
   "notice": "本文件由 `npm run build:site` 从岗位库实时导出。官方渠道岗位保留原文投递链接；演示岗位为虚构数据，仅用于防骗教学。",
   "stats": {
-    "total": 0,
-    "real": 0,
-    "fakeSamples": 0,
-    "bySource": {}
+    "total": 85,
+    "real": 85,
+    "fakeSamples": 6,
+    "bySource": {
+      "demo": 34,
+      "wllm-武汉晴川学院": 32,
+      "mohrss": 19
+    }
   },
-  "jobs": [],
-  "fakeSamples": []
+  "jobs": [
+    {
+      "id": "job_001",
+      "title": "新媒体运营专员",
+      "company": "武汉云帆信息技术有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "洪山区",
+      "category": "运营",
+      "salaryMin": 5000,
+      "salaryMax": 7000,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "应届可投",
+      "description": "负责公司公众号、视频号日常内容策划与发布，跟踪热点产出选题，配合投放团队复盘数据。",
+      "requirements": [
+        "熟悉微信公众号、抖音等主流平台操作",
+        "文字功底扎实，会基础排版工具",
+        "有校园公众号或自媒体运营经验优先"
+      ],
+      "tags": [
+        "五险一金",
+        "应届友好",
+        "双休"
+      ],
+      "source": "demo",
+      "postedAt": "2026-11-06",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_002",
+      "title": "电商运营助理",
+      "company": "武汉楚贸电子商务有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "汉阳区",
+      "category": "电商",
+      "salaryMin": 4500,
+      "salaryMax": 6000,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "应届可投",
+      "description": "协助运营维护拼多多/抖音小店，负责商品上下架、活动报名与日常数据整理。",
+      "requirements": [
+        "会 Excel 基础操作",
+        "对电商平台有兴趣，愿意学习",
+        "做事细心，有责任心"
+      ],
+      "tags": [
+        "无经验可带",
+        "下午茶",
+        "晋升快"
+      ],
+      "source": "demo",
+      "postedAt": "2026-11-06",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_2291637",
+      "title": "班主任",
+      "company": "武汉市洪山区普思培训学校有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "教育",
+      "salaryMin": 5500,
+      "salaryMax": 6499,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "全职",
+      "description": "该岗位由高校就业网发布，完整描述请查看原文。 需求专业：教育类,语言类,文秘类,体育类,公共事业类,公共管理类,公共服务类,建筑设计类,城乡规划与管理类,土建施工类,建筑设备类,建设工程管理类,市政工程类,房地产类,生物技术类,化工技术类,水文水资源类,水利工程与管理类,水利水电设备类,水土保持与水环境类。 招聘人数：50人。 工作地址：武汉市洪山区卓刀泉街道伏泉小路2号。",
+      "requirements": [],
+      "tags": [
+        "高校就业网",
+        "官方渠道",
+        "武汉晴川学院"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-11-06",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2291637",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_2294174",
+      "title": "高中全科老师",
+      "company": "武汉市洪山区普思培训学校有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "教育",
+      "salaryMin": 9500,
+      "salaryMax": 10499,
+      "salaryType": "monthly",
+      "education": "本科",
+      "experience": "全职",
+      "description": "该岗位由高校就业网发布，完整描述请查看原文。 需求专业：教育学类,马克思主义理论类,中国语言文学类,外国语言文学类,历史学类,物理学类,数学类,化学类,地理科学类,地质学类,生物科学类。 招聘人数：20人。 工作地址：武汉市洪山区卓刀泉街道伏泉小路2号。",
+      "requirements": [],
+      "tags": [
+        "高校就业网",
+        "官方渠道",
+        "武汉晴川学院"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-11-06",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2294174",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_2313693",
+      "title": "设备操作员",
+      "company": "武汉中兴创新材料技术有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "综合",
+      "salaryMin": 5000,
+      "salaryMax": 7000,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "不限",
+      "description": "该岗位由高校就业网发布，完整描述请查看原文。 需求专业：电力技术类,热能与发电工程类,新能源发电工程类,机械设计制造类,机电设备类,自动化类,汽车制造类,电子信息类。 招聘人数：20人。 工作地址：武汉市东西湖区兴工六路1号。",
+      "requirements": [],
+      "tags": [
+        "高校就业网",
+        "官方渠道",
+        "武汉晴川学院"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-11-06",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2313693",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_2345821",
+      "title": "AI标注师",
+      "company": "德行天下数字科技（宜昌）有限公司",
+      "province": "湖北省",
+      "city": "宜昌市",
+      "district": "",
+      "category": "IT",
+      "salaryMin": 4500,
+      "salaryMax": 5499,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "不限",
+      "description": "该岗位由高校就业网发布，完整描述请查看原文。 需求专业：计算机类,电子信息类,通信类,艺术设计类。 招聘人数：50人。 工作地址：湖北省宜昌市点军区桥边镇十里红路308号江南科创园16A101。",
+      "requirements": [],
+      "tags": [
+        "高校就业网",
+        "官方渠道",
+        "武汉晴川学院"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-11-06",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2345821",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_2384385",
+      "title": "技术员",
+      "company": "湖北徽阳新材料有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "IT",
+      "salaryMin": 5500,
+      "salaryMax": 6499,
+      "salaryType": "monthly",
+      "education": "本科",
+      "experience": "全职",
+      "description": "该岗位由高校就业网发布，完整描述请查看原文。 需求专业：化学类。 招聘人数：20人。 工作地址：当阳市坝陵化工园清平河片区（庙前镇清平河村4组）。",
+      "requirements": [],
+      "tags": [
+        "高校就业网",
+        "官方渠道",
+        "武汉晴川学院"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-11-06",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2384385",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_003",
+      "title": "软件测试工程师（初级）",
+      "company": "武汉光谷软件服务有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "江夏区",
+      "category": "IT",
+      "salaryMin": 6000,
+      "salaryMax": 8500,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "应届可投",
+      "description": "参与公司 SaaS 产品功能测试，编写测试用例与缺陷报告，配合开发定位问题。",
+      "requirements": [
+        "了解软件测试基本流程",
+        "会用禅道或同类缺陷管理工具优先",
+        "计算机相关专业优先，跨专业有项目经验亦可"
+      ],
+      "tags": [
+        "五险一金",
+        "导师带教",
+        "双休"
+      ],
+      "source": "demo",
+      "postedAt": "2026-11-05",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_004",
+      "title": "Web前端开发工程师",
+      "company": "武汉星联网络科技有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "东湖高新区",
+      "category": "IT",
+      "salaryMin": 7000,
+      "salaryMax": 10000,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "1年以内",
+      "description": "参与公司自有产品 H5 与管理后台开发，使用 Vue 技术栈，配合 UI 还原页面。",
+      "requirements": [
+        "掌握 HTML/CSS/JavaScript 基础",
+        "了解 Vue 或 React 至少一种",
+        "有完整个人项目或实习项目可展示"
+      ],
+      "tags": [
+        "五险一金",
+        "技术氛围好",
+        "双休"
+      ],
+      "source": "demo",
+      "postedAt": "2026-11-05",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_2368580",
+      "title": "中学数学老师",
+      "company": "湖北艺而优艺术培训学校有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "教育",
+      "salaryMin": 4500,
+      "salaryMax": 5499,
+      "salaryType": "monthly",
+      "education": "本科",
+      "experience": "全职",
+      "description": "该岗位由高校就业网发布，完整描述请查看原文。 需求专业：数学类,物理学类,化学类,教育学类。 招聘人数：10人。 工作地址：武汉市江夏区庙山办事处阳光大道泰驰伊顿阳光5栋4、5室商铺。",
+      "requirements": [],
+      "tags": [
+        "高校就业网",
+        "官方渠道",
+        "武汉晴川学院"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-11-05",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2368580",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_005",
+      "title": "行政专员",
+      "company": "武汉恒信置业顾问有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "武昌区",
+      "category": "行政",
+      "salaryMin": 4200,
+      "salaryMax": 5500,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "应届可投",
+      "description": "负责办公室日常行政事务、会议组织、办公用品管理与员工考勤核对。",
+      "requirements": [
+        "办公软件熟练",
+        "沟通能力强，形象气质佳",
+        "工作稳定踏实"
+      ],
+      "tags": [
+        "双休",
+        "五险",
+        "节日福利"
+      ],
+      "source": "demo",
+      "postedAt": "2026-11-04",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_006",
+      "title": "人事助理（招聘方向）",
+      "company": "武汉聚贤人力资源服务有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "江汉区",
+      "category": "行政",
+      "salaryMin": 4500,
+      "salaryMax": 6000,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "应届可投",
+      "description": "协助发布招聘信息、简历筛选、面试邀约与入离职手续办理。",
+      "requirements": [
+        "沟通表达顺畅",
+        "会用招聘平台后台",
+        "人力资源专业优先"
+      ],
+      "tags": [
+        "双休",
+        "应届友好"
+      ],
+      "source": "demo",
+      "postedAt": "2026-11-04",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_2393998",
+      "title": "线切割操机员",
+      "company": "武汉贝特尔科技有限责任公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "综合",
+      "salaryMin": 4500,
+      "salaryMax": 5499,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "全职",
+      "description": "该岗位由高校就业网发布，完整描述请查看原文。 需求专业：机械设计制造类,机电设备类,自动化类。 招聘人数：1人。 工作地址：武汉市洪山区青菱湖北路8号青菱都市工业园内白沙洲中小企业城二期42栋1层1号。",
+      "requirements": [],
+      "tags": [
+        "高校就业网",
+        "官方渠道",
+        "武汉晴川学院"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-11-04",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2393998",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_81716183",
+      "title": "生产组长",
+      "company": "湖北省金诚服装有限责任公司",
+      "province": "湖北省",
+      "city": "恩施土家族苗族自治州",
+      "district": "来凤县",
+      "category": "综合",
+      "salaryMin": 4000,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "中等专科",
+      "experience": "不限",
+      "description": "工作地点：来凤县翔凤镇桂花树村工业园区。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-04",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/81716183.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_81716184",
+      "title": "配送司机",
+      "company": "来凤县绿野商贸有限公司",
+      "province": "湖北省",
+      "city": "恩施土家族苗族自治州",
+      "district": "来凤县",
+      "category": "综合",
+      "salaryMin": 4000,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "大学专科",
+      "experience": "不限",
+      "description": "工作地点：盛弘配送二楼办公室。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-04",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/81716184.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_81716202",
+      "title": "新零售",
+      "company": "来凤县好利来商贸有限责任公司",
+      "province": "湖北省",
+      "city": "恩施土家族苗族自治州",
+      "district": "来凤县",
+      "category": "综合",
+      "salaryMin": 2000,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "中等专科",
+      "experience": "不限",
+      "description": "工作地点：来凤县翔凤镇解放路84号。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-04",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/81716202.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_81716213",
+      "title": "主播",
+      "company": "恩施州怡美斯服饰企业有限公司",
+      "province": "湖北省",
+      "city": "恩施土家族苗族自治州",
+      "district": "恩施市",
+      "category": "综合",
+      "salaryMin": 4000,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "大学专科",
+      "experience": "不限",
+      "description": "工作地点：恩施市七里坪街道七里坪产业园。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-04",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/81716213.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_81716353",
+      "title": "质量工程师",
+      "company": "湖北诚源汽车部件制造有限公司",
+      "province": "湖北省",
+      "city": "黄冈市",
+      "district": "麻城市",
+      "category": "IT",
+      "salaryMin": 5000,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "工作地点：麻城经济开发区金陵大道8号。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-04",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/81716353.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_007",
+      "title": "电话客服专员",
+      "company": "武汉捷音客户服务有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "硚口区",
+      "category": "客服",
+      "salaryMin": 4000,
+      "salaryMax": 5500,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "接听客户来电解答产品使用问题，记录反馈并跟进处理结果。",
+      "requirements": [
+        "普通话标准",
+        "打字速度 40 字/分钟以上",
+        "能接受轮班"
+      ],
+      "tags": [
+        "无经验可带",
+        "入职培训"
+      ],
+      "source": "demo",
+      "postedAt": "2026-11-03",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_008",
+      "title": "在线客服（夜班补贴）",
+      "company": "武汉捷音客户服务有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "硚口区",
+      "category": "客服",
+      "salaryMin": 4500,
+      "salaryMax": 6200,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "通过在线工作台回复客户咨询，处理售后工单，夜班有专项补贴。",
+      "requirements": [
+        "打字流畅，回复有耐心",
+        "可接受做一休一轮班安排"
+      ],
+      "tags": [
+        "夜班补贴",
+        "包吃"
+      ],
+      "source": "demo",
+      "postedAt": "2026-11-03",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_78515262",
+      "title": "网约车合作伙伴",
+      "company": "长春市征途众和汽车销售服务有限公司",
+      "province": "吉林省",
+      "city": "长春市",
+      "district": "长春市",
+      "category": "综合",
+      "salaryMin": 6000,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "普通高中",
+      "experience": "不限",
+      "description": "工作地点：吉林省长春市净月高新技术产业开发区。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-03",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/78515262.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_78515263",
+      "title": "消防员",
+      "company": "长春久隆实业有限公司",
+      "province": "吉林省",
+      "city": "长春市",
+      "district": "宽城区",
+      "category": "综合",
+      "salaryMin": 4000,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "普通高中",
+      "experience": "不限",
+      "description": "工作地点：吉林省长春市宽城区。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-03",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/78515263.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_78515264",
+      "title": "管理员",
+      "company": "长春久隆实业有限公司",
+      "province": "吉林省",
+      "city": "长春市",
+      "district": "宽城区",
+      "category": "综合",
+      "salaryMin": 4000,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "大学专科",
+      "experience": "不限",
+      "description": "工作地点：吉林省长春市宽城区。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-03",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/78515264.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_78515265",
+      "title": "水暖工",
+      "company": "长春久隆实业有限公司",
+      "province": "吉林省",
+      "city": "长春市",
+      "district": "宽城区",
+      "category": "综合",
+      "salaryMin": 4000,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "普通高中",
+      "experience": "不限",
+      "description": "工作地点：吉林省长春市宽城区。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-03",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/78515265.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_78515268",
+      "title": "总裁办助理",
+      "company": "长春活力城新生活广场有限公司",
+      "province": "吉林省",
+      "city": "长春市",
+      "district": "南关区",
+      "category": "行政",
+      "salaryMin": 2120,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "大学本科",
+      "experience": "不限",
+      "description": "工作地点：吉林省长春市南关区。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-03",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/78515268.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_78515403",
+      "title": "车间调试工",
+      "company": "吉林省凯达管业有限公司",
+      "province": "吉林省",
+      "city": "长春市",
+      "district": "绿园区",
+      "category": "综合",
+      "salaryMin": 2120,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "普通高中",
+      "experience": "不限",
+      "description": "工作地点：吉林省长春市绿园区。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-03",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/78515403.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_78515404",
+      "title": "数控工",
+      "company": "吉林省凯达管业有限公司",
+      "province": "吉林省",
+      "city": "长春市",
+      "district": "绿园区",
+      "category": "综合",
+      "salaryMin": 2120,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "普通高中",
+      "experience": "不限",
+      "description": "工作地点：吉林省长春市绿园区。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-03",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/78515404.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_78515405",
+      "title": "冲压工",
+      "company": "吉林省凯达管业有限公司",
+      "province": "吉林省",
+      "city": "长春市",
+      "district": "绿园区",
+      "category": "综合",
+      "salaryMin": 6000,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "普通高中",
+      "experience": "不限",
+      "description": "工作地点：吉林省长春市绿园区。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-03",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/78515405.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_78515406",
+      "title": "生产线操作工",
+      "company": "吉林省凯达管业有限公司",
+      "province": "吉林省",
+      "city": "长春市",
+      "district": "绿园区",
+      "category": "综合",
+      "salaryMin": 2120,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "普通高中",
+      "experience": "不限",
+      "description": "工作地点：吉林省长春市绿园区。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-03",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/78515406.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_78515407",
+      "title": "大数据工程师",
+      "company": "吉林省十壹匠人教育科技集团有限公司",
+      "province": "吉林省",
+      "city": "长春市",
+      "district": "吉林省",
+      "category": "IT",
+      "salaryMin": 6000,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "大学本科",
+      "experience": "不限",
+      "description": "工作地点：吉林省长春市长春新区。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-03",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/78515407.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_78515408",
+      "title": "招生顾问",
+      "company": "吉林省十壹匠人教育科技集团有限公司",
+      "province": "吉林省",
+      "city": "长春市",
+      "district": "吉林省",
+      "category": "销售",
+      "salaryMin": 4000,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "大学本科",
+      "experience": "不限",
+      "description": "工作地点：吉林省长春市长春新区高新开发区。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-03",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/78515408.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_78515409",
+      "title": "班主任",
+      "company": "长春众丰投资集团有限公司",
+      "province": "吉林省",
+      "city": "长春市",
+      "district": "南关区",
+      "category": "综合",
+      "salaryMin": 2120,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "大学专科",
+      "experience": "不限",
+      "description": "工作地点：吉林省长春市南关区。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-03",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/78515409.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_78515410",
+      "title": "网店/淘宝运营",
+      "company": "长春众丰投资集团有限公司",
+      "province": "吉林省",
+      "city": "长春市",
+      "district": "南关区",
+      "category": "运营",
+      "salaryMin": 2120,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "大学专科",
+      "experience": "不限",
+      "description": "工作地点：吉林省长春市南关区。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-03",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/78515410.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "mohrss_78515411",
+      "title": "管培生",
+      "company": "长春众丰投资集团有限公司",
+      "province": "吉林省",
+      "city": "长春市",
+      "district": "南关区",
+      "category": "综合",
+      "salaryMin": 2120,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "工作地点：吉林省长春市南关区。 信息来源：人社部中国公共招聘网（官方渠道），报名与联系方式请查看原文。",
+      "requirements": [],
+      "tags": [
+        "公共招聘网",
+        "官方渠道"
+      ],
+      "source": "mohrss",
+      "postedAt": "2026-11-03",
+      "applyUrl": "http://job.mohrss.gov.cn/cjobs/htmls/cb21gwPages/78515411.html",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_009",
+      "title": "销售代表（快消品）",
+      "company": "武汉百汇商贸有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "东西湖区",
+      "category": "销售",
+      "salaryMin": 4000,
+      "salaryMax": 8000,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "负责商超渠道快消品铺货、陈列维护与新客户开发，提成上不封顶。",
+      "requirements": [
+        "能吃苦，沟通能力强",
+        "有驾照优先",
+        "接受区域内外勤走访"
+      ],
+      "tags": [
+        "提成上不封顶",
+        "车补"
+      ],
+      "source": "demo",
+      "postedAt": "2026-11-02",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_010",
+      "title": "课程顾问",
+      "company": "武汉启梦教育咨询有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "洪山区",
+      "category": "销售",
+      "salaryMin": 4500,
+      "salaryMax": 9000,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "应届可投",
+      "description": "接待到访家长，介绍课程体系，跟进试听转化，维护学员家长关系。",
+      "requirements": [
+        "亲和力强，喜欢和孩子打交道",
+        "抗压能力好",
+        "教育相关专业优先"
+      ],
+      "tags": [
+        "提成高",
+        "带薪培训"
+      ],
+      "source": "demo",
+      "postedAt": "2026-11-02",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_2332697",
+      "title": "初级运维工程师",
+      "company": "新晨科技股份有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "IT",
+      "salaryMin": 7500,
+      "salaryMax": 8499,
+      "salaryType": "monthly",
+      "education": "本科",
+      "experience": "全职",
+      "description": "该岗位由高校就业网发布，完整描述请查看原文。 需求专业：土木类,计算机类,自动化类,电子信息类,能源动力类,材料类,机械类,电气类。 招聘人数：4人。 工作地址：浦东新区世博园。",
+      "requirements": [],
+      "tags": [
+        "高校就业网",
+        "官方渠道",
+        "武汉晴川学院"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-11-02",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2332697",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_2346628",
+      "title": "2027届原之翼-市拓发展岗",
+      "company": "重庆新东原物业管理有限公司武汉分公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "销售",
+      "salaryMin": 6500,
+      "salaryMax": 7499,
+      "salaryType": "monthly",
+      "education": "本科",
+      "experience": "全职",
+      "description": "该岗位由高校就业网发布，完整描述请查看原文。 需求专业：工商管理类,经济学类,经济与贸易类。 招聘人数：5人。 工作地址：武汉市武昌区阿里中心T1写字楼1703。",
+      "requirements": [],
+      "tags": [
+        "高校就业网",
+        "官方渠道",
+        "武汉晴川学院"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-11-02",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2346628",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_2358300",
+      "title": "新媒体运营与传播",
+      "company": "武汉元点教育科技有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "运营",
+      "salaryMin": 5500,
+      "salaryMax": 6499,
+      "salaryType": "monthly",
+      "education": "本科",
+      "experience": "全职",
+      "description": "该岗位由高校就业网发布，完整描述请查看原文。 需求专业：设计学类,美术学类,新闻传播学类,公共管理类,图书情报与档案管理类,电子商务类,戏剧与影视学类,音乐与舞蹈学类,艺术学理论类。 招聘人数：6人。 工作地址：武汉洪山区汇通大厦D1座六楼。",
+      "requirements": [],
+      "tags": [
+        "高校就业网",
+        "官方渠道",
+        "武汉晴川学院"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-11-02",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2358300",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_011",
+      "title": "会计助理",
+      "company": "武汉信达财税咨询有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "江岸区",
+      "category": "财务",
+      "salaryMin": 4200,
+      "salaryMax": 5800,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "应届可投",
+      "description": "协助会计整理原始凭证、录入记账凭证、装订归档，学习代理记账全流程。",
+      "requirements": [
+        "会计相关专业",
+        "会基础财务软件优先",
+        "细心稳重"
+      ],
+      "tags": [
+        "双休",
+        "师徒制带教"
+      ],
+      "source": "demo",
+      "postedAt": "2026-11-01",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_012",
+      "title": "出纳",
+      "company": "武汉安泰物流有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "黄陂区",
+      "category": "财务",
+      "salaryMin": 4500,
+      "salaryMax": 6000,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "1年以内",
+      "description": "负责公司日常收付款、银行对账、发票开具与现金管理。",
+      "requirements": [
+        "有出纳或实习经验优先",
+        "持有初级会计证优先",
+        "品行端正，无不良记录"
+      ],
+      "tags": [
+        "五险一金",
+        "包午餐"
+      ],
+      "source": "demo",
+      "postedAt": "2026-11-01",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_013",
+      "title": "短视频剪辑助理",
+      "company": "武汉光影文化传媒有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "洪山区",
+      "category": "运营",
+      "salaryMin": 5000,
+      "salaryMax": 7500,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "应届可投",
+      "description": "根据脚本剪辑短视频，添加字幕音效，配合运营发布并复盘播放数据。",
+      "requirements": [
+        "会剪映或 Pr 至少一种",
+        "有个人剪辑作品",
+        "对热点敏感"
+      ],
+      "tags": [
+        "作品导向",
+        "不限学历",
+        "双休"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-31",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_014",
+      "title": "运维工程师（初级）",
+      "company": "武汉中科云数据服务有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "东湖高新区",
+      "category": "IT",
+      "salaryMin": 6500,
+      "salaryMax": 9000,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "1年以内",
+      "description": "负责公司云服务器日常巡检、监控告警处理与基础脚本编写。",
+      "requirements": [
+        "了解 Linux 常用命令",
+        "会 Shell 或 Python 基础脚本",
+        "有实习或实验室运维经验优先"
+      ],
+      "tags": [
+        "五险一金",
+        "值班调休"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-31",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_015",
+      "title": "软件实施工程师",
+      "company": "长沙慧企软件有限公司",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "岳麓区",
+      "category": "IT",
+      "salaryMin": 5500,
+      "salaryMax": 7500,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "应届可投",
+      "description": "负责客户 ERP 系统部署、培训与上线陪跑，收集需求反馈给产品团队。",
+      "requirements": [
+        "能适应省内短期出差",
+        "表达清晰，会做操作手册",
+        "计算机/管理类相关专业优先"
+      ],
+      "tags": [
+        "出差补贴",
+        "应届友好"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-30",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_016",
+      "title": "UI设计助理",
+      "company": "长沙柚子创意设计有限公司",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "雨花区",
+      "category": "设计",
+      "salaryMin": 5000,
+      "salaryMax": 7000,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "应届可投",
+      "description": "协助设计师完成 App 界面切图、Banner 制作与设计规范整理。",
+      "requirements": [
+        "会用 Figma 或 PS",
+        "投递请附作品集",
+        "审美在线，执行高效"
+      ],
+      "tags": [
+        "作品导向",
+        "双休"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-30",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_2322093",
+      "title": "新媒体运营专员",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "运营",
+      "salaryMin": 3500,
+      "salaryMax": 4499,
+      "salaryType": "monthly",
+      "education": "本科",
+      "experience": "不限",
+      "description": "岗位职责 负责公司抖音快手红书等新媒体平台日常运营包括内容策划文案撰写视频拍摄与剪辑账号维护等 针高考及长群体策划并输优质求规划院校专业解读备考攻略等相关内容提升账号影响力户粘性 及回复户评论私信解答户疑问提供专业咨询服务并引导户转化 跟踪析平台数据期输运营报告并根据数据反馈调整运营策略 关注教育业热点结合公司业务策划并执线活提升品牌知名度户参与度招聘求 科及历新闻传播市场营销教育等相关专业优先 熟悉抖音快手红书等新媒体平台运营规则玩相关工验者优先 具备优秀文案写力视频剪辑力够独立完内容创 教育业浓厚兴趣熟悉高考政策院校信息者优先 具备良沟通表达力团队合精神抗压力 工积极责任强具备良习力创新意识\n\n武汉弘桥教育科技限公司集教育投资教育培训教育管校企合联合办互联网招业服务等体教育集团目全日制教育核致力基础教育职业教育历教育际教育等四板块业务公司立已与内专专及科院校达深度校企合产教融合协育",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-10-30",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2322093",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "job_2322099",
+      "title": "客服专员",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "客服",
+      "salaryMin": 3500,
+      "salaryMax": 4499,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "不限",
+      "description": "岗位职责负责接听高考及长咨询电话解答关校招政策专业设置业景等疑问通网络平台官网抖音快手红书等线解答及长咨询并及回复留言负责接待访及长带领参观校园介绍校情况并解答相关问题收集整及长咨询信息并及反馈给相关领导协助完校安排工招聘求专及历专业限客服验者优先普通话标准声音甜美具备良沟通表达力服务意识熟悉电脑操够熟练使办公软件工认真负责耐细致具备良团队合精神热爱教育业责任亲力\n\n武汉弘桥教育科技限公司集教育投资教育培训教育管校企合联合办互联网招业服务等体教育集团目全日制教育核致力基础教育职业教育历教育际教育等四板块业务公司立已与内专专及科院校达深度校企合产教融合协育",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-10-30",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2322099",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "job_2322103",
+      "title": "教育主播",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "运营",
+      "salaryMin": 6500,
+      "salaryMax": 7499,
+      "salaryType": "monthly",
+      "education": "本科",
+      "experience": "不限",
+      "description": "岗位职责负责公司抖音快手红书等新媒体平台直播工高考及长提供求规划院校专业解读备考攻略等内容直播讲解参与直播内容策划撰写直播脚并与运营团队协完直播预热引流推广工直播程与观众积极互解答户疑问提供专业咨询服务并引导户转化关注教育业热点结合公司业务策划并执题直播活提升品牌知名度户参与度跟踪析直播数据期输直播复盘报告并根据数据反馈优化直播内容形式招聘求科及历教育新闻传播播音持等相关专业优先形象气质佳普通话标准具备良镜头表力语言表达力教育业浓厚兴趣熟悉高考政策院校信息者优先具备较强习力应变力够快速掌握新知识并应直播场景工积极责任强具备良团队合精神抗压力直播验者优先\n\n武汉弘桥教育科技限公司集教育投资教育培训教育管校企合联合办互联网招业服务等体教育集团目全日制教育核致力基础教育职业教育历教育际教育等四板块业务公司立已与内专专及科院校达深度校企合产教融合协育",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-10-30",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2322103",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "job_2361595",
+      "title": "乘务员",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "综合",
+      "salaryMin": 4500,
+      "salaryMax": 5499,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "大专",
+      "description": "岗位职责 组织旅客车检查票务认座旅客咨询通报站等工防止旅客将易燃易爆等危险品带入站内 整车厢旅客李巡视车厢协助铁路警察负责维持站内车内秩序安全工岗位求-周岁具良交流沟通力普通话标准良服务意识团队意识吃苦耐劳精神爱岗敬业尽职尽责言谈体微笑服务福利待遇利待遇每月工资元-元它奖金补助另计每月工资按放五险正式岗入保险养老险医疗险意外险育险失业险公司免费提供食宿每月班-左右按照几休几原则二休二具体根据线路表车间排班休息拿证件免费乘高铁车回加班享受加班补助节假日放福利职工升职空工资随各区度月平均工资标准逐递增相应职务津贴涨公司郑重承诺旦录即刻签订劳合收取任何费食宿服装被褥免费放\n\n营范围科技推广服务业铁路电气化技术技术咨询技术转让铁路电气化设备维护设计制代内广告业务布内户外广告业务企业管咨询企业形象策划贸易信息咨询文化艺术交流活策划庭服务劳者介绍单位单位推荐劳者单位提供职业介绍信息服务互联网力资源信息服务组织展场招聘展网络招聘展高级才寻访服务均凭许证营力资源供求信息收集与布业创业指导力资源管咨询力资源测评力资源培训承接力资源服务外包代缴社保险依须批准项目相关门批准展营活",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-10-30",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2361595",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "job_2381370",
+      "title": "乘辅警 安全员",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "综合",
+      "salaryMin": 5500,
+      "salaryMax": 6499,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "工内容负责单位安全检查职工安全教育提高职工安全技术水平增强安全意识负责车站入站站口检票工负责列车站内安全管包括站岗抽查旅客身份证件负责协助旅客车检查票务认座旅客咨询等工任职求拥护华民共宪思品质优秀身体素质二警官校毕业体校武校或体育特长优先三龄-周岁男女均形象气质佳专及历四身体综合素质较五爱岗敬业责任强听指挥服安排薪资待遇转正综合工资线城市-二三线城市-缴纳规五险几休几例二休二或三休三等提供住宿餐补\n\n营范围科技推广服务业铁路电气化技术技术咨询技术转让铁路电气化设备维护设计制代内广告业务布内户外广告业务企业管咨询企业形象策划贸易信息咨询文化艺术交流活策划庭服务劳者介绍单位单位推荐劳者单位提供职业介绍信息服务互联网力资源信息服务组织展场招聘展网络招聘展高级才寻访服务均凭许证营力资源供求信息收集与布业创业指导力资源管咨询力资源测评力资源培训承接力资源服务外包代缴社保险依须批准项目相关门批准展营活",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-10-30",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2381370",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "job_017",
+      "title": "教务老师",
+      "company": "郑州青禾素质教育有限公司",
+      "province": "河南省",
+      "city": "郑州市",
+      "district": "金水区",
+      "category": "教育",
+      "salaryMin": 4000,
+      "salaryMax": 5500,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "应届可投",
+      "description": "负责排课调度、学员考勤跟进、家长沟通与教学物料准备。",
+      "requirements": [
+        "有耐心，责任心强",
+        "会用 Excel 排表",
+        "师范类相关专业优先"
+      ],
+      "tags": [
+        "寒暑假调休",
+        "双休"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-29",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_018",
+      "title": "少儿编程助教",
+      "company": "郑州码上未来教育科技有限公司",
+      "province": "河南省",
+      "city": "郑州市",
+      "district": "二七区",
+      "category": "教育",
+      "salaryMin": 4500,
+      "salaryMax": 6500,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "应届可投",
+      "description": "辅助主讲老师带少儿图形化编程课堂，课后与家长反馈学习情况。",
+      "requirements": [
+        "了解 Scratch 或 Python 基础",
+        "喜欢小朋友",
+        "周末能排班（周中调休）"
+      ],
+      "tags": [
+        "带薪培训",
+        "周中双休"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-29",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_019",
+      "title": "物流运营专员",
+      "company": "合肥顺达供应链管理有限公司",
+      "province": "安徽省",
+      "city": "合肥市",
+      "district": "包河区",
+      "category": "物流",
+      "salaryMin": 5000,
+      "salaryMax": 6800,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "应届可投",
+      "description": "跟进运输订单时效，处理异常件，对接承运商并输出周报数据。",
+      "requirements": [
+        "物流管理相关专业优先",
+        "Excel 熟练",
+        "沟通协调能力好"
+      ],
+      "tags": [
+        "五险一金",
+        "餐补"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-28",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_020",
+      "title": "仓储管理培训生",
+      "company": "合肥顺达供应链管理有限公司",
+      "province": "安徽省",
+      "city": "合肥市",
+      "district": "经开区",
+      "category": "物流",
+      "salaryMin": 4800,
+      "salaryMax": 6200,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "应届可投",
+      "description": "轮岗学习收货、上架、盘点全流程，培养期后定岗仓储组长方向。",
+      "requirements": [
+        "能适应仓库现场环境",
+        "执行力强",
+        "应届生优先"
+      ],
+      "tags": [
+        "管培路线",
+        "包住宿"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-28",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_2335704",
+      "title": "外贸业务实习生",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "销售",
+      "salaryMin": 4500,
+      "salaryMax": 5499,
+      "salaryType": "monthly",
+      "education": "本科",
+      "experience": "全职",
+      "description": "英语四级三观正志长期耕耘外贸业\n\n达电路香港限公司深圳市达电路限公司达电路限公司武汉公司筹备达电路限公司重庆公司筹备 深圳市达电路限公司专业销售加工单双层线路板铝基板及特殊材料印制板企业公司拥全套产检测设备全执并通-认证体系司铝基板通美安全认证号码 公司产品广泛应照明电机械通讯汽车等散热需求业领域销往内及海外欧美等区公司优质服务流技术基点采先设备优质原材料及专业技术才验丰富管干稳谐员工团队严格保证产品质量满足客户交期断适应公司展需求向社诚招员加盟司外贸业务员名英语四级 读力接受应届办公室文员名女性熟练使办公软件熟悉办公室商务英语专业优先考虑习名英语相关专业习期工资半正式转正调工资.外贸专员专科历班址武汉洪山重庆深圳班间工资议",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-10-28",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2335704",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "job_2379212",
+      "title": "业务合伙人",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "销售",
+      "salaryMin": 4500,
+      "salaryMax": 5499,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "善交流 积极取 乐观向客户维护房源交签单\n\n武汉健炟房产纪限公司海居产旗旗舰公司立间立月日展历程立首门店团队数十展团队数已达业务范围武汉市土租房提供综合服务包括住房写字楼商铺等租赁业务涵盖房产咨询等相关业务门店数量营至今拥体门店政办公室员规模职数公司培养众优秀才薪万薪超万伙伴名",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-10-28",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2379212",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "job_2379215",
+      "title": "储备店长",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "行政",
+      "salaryMin": 7500,
+      "salaryMax": 8499,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "沟通力领导力具较强管力\n\n武汉健炟房产纪限公司海居产旗旗舰公司立间立月日展历程立首门店团队数十展团队数已达业务范围武汉市土租房提供综合服务包括住房写字楼商铺等租赁业务涵盖房产咨询等相关业务门店数量营至今拥体门店政办公室员规模职数公司培养众优秀才薪万薪超万伙伴名",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-10-28",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2379215",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "job_2395706",
+      "title": "人事专员",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "行政",
+      "salaryMin": 4500,
+      "salaryMax": 5499,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": ". 根据招聘计划布职位筛选简历电话邀约安排试跟试结果及录沟通. 维护招聘渠直聘智联程无忧猎聘等拓展校园招聘内推荐等渠. 建立才库做候选跟与雇品牌维护. 统计招聘数据析招聘周期率录率等\n\n公司深度融合工智与电气智化技术聚焦互联网安全服务并拓展至智电气监测驱故障预测工业化决策系统等沿领域源制造及数字基建客户提供软硬体高靠解决案算重构电气安全边界数据智赋传统产业升级——微型团队却志义代智安全标准拒绝内卷做硬核创新诚邀电气计算机等工专业英才加入零把“新公司”写“新势力”员工更技术版图共建者未等写",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-10-28",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2395706",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "job_021",
+      "title": "新媒体内容编辑",
+      "company": "南昌星野文化传播有限公司",
+      "province": "江西省",
+      "city": "南昌市",
+      "district": "红谷滩区",
+      "category": "运营",
+      "salaryMin": 4500,
+      "salaryMax": 6500,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "应届可投",
+      "description": "负责本地生活类账号图文选题、撰写与粉丝互动运营。",
+      "requirements": [
+        "网感好，文字表达流畅",
+        "会基础修图",
+        "中文/新闻类专业优先"
+      ],
+      "tags": [
+        "不限学历",
+        "双休"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-27",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_022",
+      "title": "跨境电商运营助理",
+      "company": "杭州澜图跨境电子商务有限公司",
+      "province": "浙江省",
+      "city": "杭州市",
+      "district": "余杭区",
+      "category": "电商",
+      "salaryMin": 5500,
+      "salaryMax": 7500,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "应届可投",
+      "description": "协助运营亚马逊店铺，负责 Listing 优化、广告数据整理与库存跟进。",
+      "requirements": [
+        "英语四级或同等读写能力",
+        "细心，对数据敏感",
+        "国贸/商务英语专业优先"
+      ],
+      "tags": [
+        "五险一金",
+        "跨境行业",
+        "晋升通道清晰"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-27",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_2394001",
+      "title": "后工序处理操作员",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "综合",
+      "salaryMin": 4500,
+      "salaryMax": 5499,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "全职",
+      "description": "【岗位职责】-负责精密金属零件工序处毛刺磨等工-按照产品求产品边缘孔位倒角等位置毛刺处-使砂纸打磨工具等产品表磨处除毛刺刀纹划痕等表良-根据产品求零件手工修整使产品达工艺求-处产品外观检查及毛刺压伤划伤刀纹等问题-按求做产品类摆放防止产品混料磕碰及二次损伤-做产数量及相关记录保持工区域整洁【任职求】-机械数控机电模具等相关专业优先-愿意精密金属零件工序处工-具备较强手力耐够细致完零件处-够识别毛刺划伤压伤刀纹等常见外观良-工认真细致责任强具良品质意识-身体健康够适应长工间白班工【薪资福利】-薪资待遇入职三月元/月三月计件制综合薪资-元/月-工间:-:固每周日休息节假日正常休息-福利待遇购买商业保险免费提供员工宿舍三间免费提供餐晚餐节日福利期团建【培养向】入职习精密零件毛刺磨外观检查及产品类等岗位技逐步熟悉产品工序处求\n\n精密金属零件制造专 | 光通信/光电连接器业核供应商公司概况武汉贝特尔科技限责任公司立月深耕精密机械加工领域位武汉洪山区白沙洲市工业园区专注锈钢铁镍合金钛合金等特金属材料精密零件制造高新技术企业公司凭借光通信及光电连接器业垂直深耕已央企市公司及全球强企业核供应链伙伴并荣获武汉市“科技‘巨’企业”称号聚焦毫米金属细长轴复合车铣体化加工满足光通信领域微型化高靠性严苛需求智化产线布局走车床台津西铁城等品牌支持-轴联复杂轮廓高效加工加工台科等系统兼容轴联与高速切削适配钛合金等难加工材料精密走丝切割走丝台快走丝台确保微细结构无毛刺无变形原材料料品检测全流程整合车削铣削钻孔攻丝线切割等复合工艺支持非标制化产严格执 :质量管体系关键工序%全检确保零缺陷交付借助//新代信息管平台客户提供高效优质服务公司“精密智造赋未”使命持续投入智化产线升级与新材料研致力全球精密金属零件领域标杆企业期待与产业链游伙伴深度合共推高端制造程",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-10-27",
+      "applyUrl": "https://qcuwh.91wllm.cn/job/view/id/2394001",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "job_023",
+      "title": "客服组长（储备）",
+      "company": "成都云客信息服务有限公司",
+      "province": "四川省",
+      "city": "成都市",
+      "district": "高新区",
+      "category": "客服",
+      "salaryMin": 5000,
+      "salaryMax": 7000,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "1年以上",
+      "description": "带领 6-8 人在线客服小组，负责排班、质检与团队指标达成。",
+      "requirements": [
+        "有客服经验且带过小组优先",
+        "会用 Excel 做简单报表",
+        "抗压与协调能力强"
+      ],
+      "tags": [
+        "管理岗储备",
+        "年终奖"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-26",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_024",
+      "title": "行政前台",
+      "company": "成都悦己医美门诊部有限公司",
+      "province": "四川省",
+      "city": "成都市",
+      "district": "锦江区",
+      "category": "行政",
+      "salaryMin": 4000,
+      "salaryMax": 5200,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "应届可投",
+      "description": "负责前台接待、电话转接、会议室管理与快递收发登记。",
+      "requirements": [
+        "形象气质佳",
+        "普通话标准",
+        "服务意识强"
+      ],
+      "tags": [
+        "双休",
+        "五险",
+        "下午茶"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-26",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_025",
+      "title": "Java开发工程师（初级）",
+      "company": "深圳捷创科技有限公司",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "南山区",
+      "category": "IT",
+      "salaryMin": 9000,
+      "salaryMax": 13000,
+      "salaryType": "monthly",
+      "education": "本科",
+      "experience": "1年以内",
+      "description": "参与公司供应链 SaaS 后端接口开发与维护，编写单元测试与技术文档。",
+      "requirements": [
+        "掌握 Java 基础与 Spring Boot",
+        "了解 MySQL 与 Redis 常用操作",
+        "有实习或课程设计项目可讲解"
+      ],
+      "tags": [
+        "五险一金",
+        "技术栈新",
+        "双休"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-25",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_026",
+      "title": "运营管培生",
+      "company": "武汉麓山优选供应链有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "东湖高新区",
+      "category": "运营",
+      "salaryMin": 5200,
+      "salaryMax": 7000,
+      "salaryType": "monthly",
+      "education": "本科",
+      "experience": "应届可投",
+      "description": "轮岗社区团购采购、仓配、用户增长三条线，六个月后双向选择定岗。",
+      "requirements": [
+        "本科应届",
+        "数据分析兴趣强，会 Excel 透视表",
+        "接受节奏快的工作氛围"
+      ],
+      "tags": [
+        "管培生",
+        "五险一金",
+        "成长快"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-25",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_027",
+      "title": "市场推广专员",
+      "company": "武汉青柠网络科技有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "洪山区",
+      "category": "销售",
+      "salaryMin": 4500,
+      "salaryMax": 7500,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "应届可投",
+      "description": "负责校园与社区场景的产品地推活动执行、物料管理与转化数据统计。",
+      "requirements": [
+        "外向开朗，不怕被拒绝",
+        "有校园社团或活动组织经验优先",
+        "执行力强"
+      ],
+      "tags": [
+        "弹性工作",
+        "活动经费充足"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-24",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_028",
+      "title": "数据标注专员",
+      "company": "武汉智图人工智能数据服务有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "江夏区",
+      "category": "IT",
+      "salaryMin": 4200,
+      "salaryMax": 5800,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "按规范完成图片与文本数据的标注、质检返修，达成每日产能与质量指标。",
+      "requirements": [
+        "细心耐心，坐得住",
+        "能接受重复性工作",
+        "有电脑操作基础即可"
+      ],
+      "tags": [
+        "无经验可带",
+        "空调工位",
+        "入职即缴社保"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-24",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_029",
+      "title": "平面设计师",
+      "company": "武汉优印广告策划有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "江汉区",
+      "category": "设计",
+      "salaryMin": 4800,
+      "salaryMax": 6500,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "1年以内",
+      "description": "负责客户宣传物料设计（海报/画册/易拉宝），对接印厂把控输出质量。",
+      "requirements": [
+        "熟练 PS/AI",
+        "了解印刷常识优先",
+        "请附作品集投递"
+      ],
+      "tags": [
+        "双休",
+        "作品导向"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-23",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_030",
+      "title": "电商美工",
+      "company": "武汉优鲜到家企业服务有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "硚口区",
+      "category": "电商",
+      "salaryMin": 5000,
+      "salaryMax": 6800,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "应届可投",
+      "description": "负责店铺首页与详情页装修、大促活动页面设计与商品主图优化。",
+      "requirements": [
+        "PS 熟练，会简单拍摄加分",
+        "理解电商视觉基本逻辑",
+        "效率高，能跟大促节奏"
+      ],
+      "tags": [
+        "五险",
+        "内部晋升快"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-23",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "campus_1007824",
+      "title": "【东原仁知】2027届原之翼管培生校园招聘",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "校招公告",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "高校就业网发布的校园招聘公告，报名方式与详情请查看原文。",
+      "requirements": [],
+      "tags": [
+        "校招公告",
+        "高校就业网",
+        "官方渠道",
+        "武汉晴川学院"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-10-22",
+      "applyUrl": "https://qcuwh.91wllm.cn/campus/view/id/1007824",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "job_031",
+      "title": "HR专员（培训方向）",
+      "company": "武汉鑫远景物业管理有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "汉阳区",
+      "category": "行政",
+      "salaryMin": 4500,
+      "salaryMax": 6000,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "应届可投",
+      "description": "协助组织新员工入职培训，维护培训档案，跟进服务意识课程落地。",
+      "requirements": [
+        "PPT 制作熟练",
+        "表达清晰敢上台",
+        "人力资源管理专业优先"
+      ],
+      "tags": [
+        "双休",
+        "五险一金"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-22",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_032",
+      "title": "采购助理",
+      "company": "武汉家美连锁超市管理有限公司",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "蔡甸区",
+      "category": "物流",
+      "salaryMin": 4500,
+      "salaryMax": 6000,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "应届可投",
+      "description": "协助采购下单、比价议价记录、供应商对账与到货跟踪。",
+      "requirements": [
+        "Excel 熟练",
+        "谈判沟通有耐心",
+        "廉洁自律意识强"
+      ],
+      "tags": [
+        "五险",
+        "包工作餐"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-22",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_033",
+      "title": "抖音直播运营助理",
+      "company": "长沙莓好时光文化传媒有限公司",
+      "province": "湖南省",
+      "city": "长沙市",
+      "district": "开福区",
+      "category": "运营",
+      "salaryMin": 5000,
+      "salaryMax": 7500,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "应届可投",
+      "description": "负责直播间排品上架、场控互动、直播数据复盘与短视频引流配合。",
+      "requirements": [
+        "看直播多、懂平台玩法",
+        "能接受晚间排班（次日调休）",
+        "有直播经验优先"
+      ],
+      "tags": [
+        "不限学历",
+        "晚间排班调休",
+        "成长快"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-21",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "job_034",
+      "title": "技术支持工程师（驻场）",
+      "company": "郑州云途信息技术有限公司",
+      "province": "河南省",
+      "city": "郑州市",
+      "district": "郑东新区",
+      "category": "IT",
+      "salaryMin": 5500,
+      "salaryMax": 7200,
+      "salaryType": "monthly",
+      "education": "大专",
+      "experience": "应届可投",
+      "description": "驻点客户现场处理政务系统日常问题，撰写值班日志与知识库文档。",
+      "requirements": [
+        "计算机相关专业",
+        "沟通表达清楚",
+        "会基础 SQL 查询优先"
+      ],
+      "tags": [
+        "驻场补贴",
+        "应届友好"
+      ],
+      "source": "demo",
+      "postedAt": "2026-10-21",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 0
+    },
+    {
+      "id": "campus_1006544",
+      "title": "广州虎牙科技有限公司",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "校招公告",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "高校就业网发布的校园招聘公告，报名方式与详情请查看原文。",
+      "requirements": [],
+      "tags": [
+        "校招公告",
+        "高校就业网",
+        "官方渠道",
+        "武汉晴川学院"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "2026-10-12",
+      "applyUrl": "https://qcuwh.91wllm.cn/campus/view/id/1006544",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "campus_1003782",
+      "title": "“百万英才汇南粤”2026年N城 联动秋季招聘活动",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "校招公告",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "“百万英才汇南粤”2026年N城联动秋季招聘活动 根据省委组织部、省人社厅、省教育厅联合印发的《“百万英才汇南粤”2026年N城联动秋季招聘活动工作方案》部署要求，惠州市将与深圳市、清远市负责湖北地区11所高校专场招聘活动的组织实施。本次活动汇聚广东省各地市重点企事业单位优质岗位资源，旨在搭建高效对接平台，助力高校毕业生高质量就业。每场招聘活动的参会单位各有不同，热烈欢迎同学们前往应聘。现场还有广货优品展示、免费品尝。招聘会时间、地点：9月16日上午武汉大学（地点：卓尔体育馆）9月16日下午华中科技大学（地点：西区体育馆）华中农业大学（地点：西体育馆）9月17日上午湖北大学（地点：武昌校区创新创业大楼）武汉工程大学（地点：流芳校区大鹏广场）9月17日下午中国地质大学（武汉）（地点：南望山校区大学生活动中心二楼）9月18日上午武汉理工大学（地点：马房山校区东院广场）湖北工业大学（地点：双创楼C座一楼大厅）9月18日下午武汉科技大学（地点：黄家湖校区教一楼广场）9月19日上午中南财经政法大学（地点：南湖校区文潭楼一楼大厅）9月19日下午华中师范大学（地点：新大学生活动中心二楼招聘大厅） 当前，惠州正锚定“粤港澳大湾区重要节点城市”和“深圳都市圈副中心”的定位，以“融深融湾”为关键抓手，全力构建万亿级GDP、千万级人口规模的现代化城市，奋力打造广东高质量发展新增长极。产业云集、山海相伴，惠州是你实现人生梦想好去处",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "",
+      "applyUrl": "https://qcuwh.91wllm.cn/campus/view/id/1003782",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "campus_1003801",
+      "title": "铜仁市2026年“千名英才·智汇铜仁”赴武汉市引才公告",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "校招公告",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "铜仁市2026年“千名英才·智汇铜仁”赴武汉市引才公告按照铜仁市2026年“千名英才·智汇铜仁”引才工作安排，拟赴武汉市开展引才工作。现将有关事宜公告如下。一、引才计划及对象（一）引才计划：计划引进296人（其中：事业单位岗位233人，企业岗位63人），赴武汉市引才单位和岗位详见附件。（二）引聘对象：具有国家承认且符合引进岗位需求学历、学位、专业等条件的应往届毕业生（含2027年应届毕业生）。二、引才时间2026年9月19—20日三、引才条件（一）具有中华人民共和国国籍。（二）拥护中华人民共和国宪法，拥护中国共产党的领导，热爱社会主义。具有较好的政治素质和品行，具有为人民服务的宗旨意识，遵纪守法，爱岗敬业，服从组织安排。（三）截止到发布公告之日，年龄在18至48周岁；大学本科学历学位的年龄原则上不超过38周岁，硕士研究生学历学位或取得副高级职称的年龄原则上不超过43周岁，博士研究生学历学位或取得正高级职称的年龄原则上不超过48周岁。其他放宽年龄的情形按《铜仁市招才引智实施办法》及有关规定的高层次人才类别进行界定。（四）系2027年应届毕业生的，须在2027年7月31日前获得相应的学历学位。海外学历需教育部留学认证。（五）须具有正常履行岗位职责的身体条件。（六）符合铜仁市2026年“千名英才·智汇铜仁”赴武汉市引才岗位相关要求及资格条件。四、有下列情形之一的，不得报名（一）曾因犯罪受过刑事处罚的。（二）处于党纪、政纪处分所规定的影响期内的。（三）涉嫌违纪违法正在接受有关机关审查尚未作出结论的。（四）在职人员近三年年度考核有不称职（不合格）情况的。（五）尚在试用期或服务期内的省内各级事业单位在职在编人员。（六）曾被开除公职的、高等教育期间受到开除学籍处分的，在校期间有违法违纪违规行为、学术不端和道德品行问题的。（七）应聘岗位即构成《事业单位人事管理回避规定》等法律法规所列需回避的。（八）人民法院认定为失信被执行人的或经有关政府行政管理部门认定存在严重违反失信行为的人员。（九）在各级招录中被认定有舞弊等严重违反纪律行为且仍在不得报考期限内的。（十）在读的在校生（不含2027年应届生）、现役军人及2027年7月31日前不能毕业的。（十一）委托培养、在职培养和定向培养的2027年应届毕业生，各类成人教育、远程教育毕业生。（十二）有违背社会公序良俗等行为造成不良影响的。（十三）不符合引才对象、岗位报考条件或所需资格条件的。（十四）国家法律、法规规定不得聘用为事业单位工作人员及其他不得引进的情形。五、人才引进程序（一）发布公告。在铜仁组工微信公众号、铜仁市人力资源和社会保障局官网、梵净人才微信公众号发布公告。（二）组织报名1.事业单位岗位报名。应聘人员从9月11日起，登录报名网址：https://bm.bjpass.com/front/site/trsrsjzz进行网上报名，填报相关信息，并按岗位要求上传个人相关证件及业绩资料等，报名时间截至9月19日12时。报名期间可与引才单位联系沟通。2.企业岗位报名。应聘人员直接与企业联系，提交报名资料。（三）省外引才。本次赴武汉市引才，主要开展现场报名、岗位及政策宣传等工作。同时，对报考岗位条件所需的博士研究生和副高及以上人员进行现场资格审查，主要审查报考人员是否符合引进人才的资格条件。报考人员参加资格审查时，须提供以下资料：1.报名信息表（报名系统打印）、毕业证和学位证（2027年毕业的应届毕业生可提供就业推荐表）、有效居民身份证，拥有国外学历的应聘人员，须提供教育部留学服务中心出具的《国外学历学位认证书》，拥有香港、澳门特别行政区学历学位的应聘人员，须提供教育部留学服务中心出具的《香港、澳门特别行政区学历学位认证书》原件及复印件各1份。2.引进岗位所需其他条件（如职称资格证、执业资格证等）的证明材料原件及复印件各1份。报考人员对所提供材料的真实性负责，对提供虚假材料的，伪造、更改有关证件、材料、信息骗取报名资格的，一经查实，立即取消资格。资格审查贯穿于引才工作全过程，在办理聘用手续后，若核查发现引进人员提供的信息材料是虚假、伪造、更改的，则给予解聘或开除处理。（四）考试1.事业单位岗位考试。博士研究生和副高及以上岗位资格审查合格人数未达到计划人数1:3比例的，直接现场开展面试；超过1:3比例的岗位，需要进行笔试和面试，具体考试方式和时间另行通知，本次引才原则上设定最低分数线70分（满分100分）。除博士研究生和副高及以上的其他岗位，在报名结束后，根据报名情况确定考试方式。引进高层次人才和急需紧缺人才，不受引才岗位计划数与实际报名审查合格人数1:3开考比例的限制，按实际报名合格人数开考，具体考试时间和方式另行通知。2.企业岗位考试由企业按照企业规定自行组织开展。（五）签订就业意向协议1.事业单位岗",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "",
+      "applyUrl": "https://qcuwh.91wllm.cn/campus/view/id/1003801",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "campus_1003857",
+      "title": "聚力建投   筑就未来湖南建投集团2027校园招聘",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "校招公告",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "聚力建投 筑就未来湖南建投集团2027校园招聘【 关于建投 】大型千亿级国有企业集团中国企业500强第174位湖南企业100强第3位湖南省首家“省长质量奖”的省属建筑企业7家特级、多家一级总承包资质子公司1000+工程获评鲁班奖、詹天佑奖及林德恩斯大奖、GRAA国际道路成就奖1600+国家级和省部级设计、施工、科技奖项【 七大主业 】房屋建筑施工路桥市政建设施工水利水运港口码头建设施工能源环保基础设施建设工程建筑勘察设计咨询和智慧建筑房地产服务自身的产业投资及金融业务【 职位百宝箱 | 畅投简历 】 招聘对象：近两年毕业的本科、硕士、博士生招聘岗位类别：工程建造类、设计研发类、安全质量类、数字信息类、财务管理类、法务合规类、市场营销类、语言翻译类、设备物流类【 建投薪福利 | 成长加倍 】薪资组成：岗位工资+绩效工资+其它津补贴+福利绩效工资：效益奖、质量奖、安全奖、进度奖、技能创新奖等其它津补贴：职称津贴、工龄津贴、学历学位津贴、职业资格津贴、远征津贴、人才补贴、交通补贴、通讯补贴、卫生补贴等福利待遇五险两金、免费食宿、内部购房优惠带薪年假、婚丧假、产假、病假等法定休假日健康体检、补充保险、意外保险、工会节日慰问、生日慰问、困难职工慰问等享有丰富的员工关怀培养方式完善的教育培训发展体系，包含新员工培训、导师带徒、“英培”计划和“英才”计划、专业技能培训、干部轮训、职业资格培训、继续教育培训、建投学堂、建投大讲堂等，为员工的学习成长建立相对应的职业生涯发展规划。发展通道职业通道多样化，“管理+技术”双通道发展。【 筑梦新入口 | 斩获OFFER 】 招聘流程网申→资格审查→面试→发放offer 网申通道 http://campus.51job.com/hnjt2027网申二维码（扫一扫，立即投递，每人最多可投递5个职位）咨询方式网站内各招聘子企业可直接联系 咨询时间：工作日9:00-12:00，15:00-17:30主要子公司●湖南建工集团有限公司●湖南建投六建集团(湖南省第六工程有限公司)●湖南路桥建设集团有限责任公司●湖南建投安装集团(湖南省工业设备安装有限公司)●湖南建投五建集团(湖南省第五工程有限公司)●湖南建投三建集团(湖南省第三工程有限公司)●湖南建投四建集团(湖南省第四工程有限公司)●中湘海外建设发展有限公司●湖南建投地产集团有限公司●湖南省交通科学研究院有限公司●湖南省建筑科学研究院有限责任公司●湖南建投交通建设有限公司●湖南省第二工程有限公司●湖南省第一工程有限公司●湖南建筑高级技工学校●湖南交通国际经济工程合作有限公司●湖南建投水利水电有限公司●中湘资本控股有限公司●中湘装饰工程集团有限公司●湖南建投集团基础设施投资公司●湖南省城乡环境建设有限公司●湖南尚上市政建设开发有限公司●大连港湾工程有限公司●中湘美好城市运营服务股份有限公司●中湘智能建造有限公司●湖南建工建筑材料有限公司●湖南省水务规划设计院有限公司●湖南建工集团工程设计研究院有限公司●湖南省第八工程有限公司●湖南建投集团西南总部建设(贵州)有限公司●湖南建投集团南方建设有限公司●湖南省平益高速公路建设开发有限公司●湖南省衡永高速公路建设开发有限公司●湖南省茶江高速公路建设开发有限公司●湖南建投湘发城市建设投资有限公司新起点，新征程，新作为诚邀各位青年才俊加入共同建设世界一流的建设投资企业",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "",
+      "applyUrl": "https://qcuwh.91wllm.cn/campus/view/id/1003857",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "campus_1003871",
+      "title": "关于发布《包头市第三季度高层次和急需紧缺人才需求目录》的公告",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "校招公告",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "为深入推进包头市“1144”现代化产业体系建设，引导和促进优秀人才向全市重点产业、重点领域合理流动，中共包头市委组织部（市委人才办）、包头市人力资源和社会保障局组织征集全市第三季度（含2026年秋季校园招引）人才需求计划，编制形成《包头市第三季度高层次和急需紧缺人才需求目录》（动态更新）。本次目录聚焦包头市重点产业转型升级和社会事业发展人才需求，梳理汇总高层次人才、企业急需紧缺人才岗位信息，明晰岗位条件、专业方向、能力素质及相关待遇等内容，为广大人才来包创新创业、求职择业提供参考指引，助力实现产业需求牵引人才集聚、人才发展赋能产业提质的良性互动。本次目录包含包头市120家（次）企事业单位引才计划，涵盖全市高层次、企业急需紧缺岗位468个，计划引才2389人。本次高层次人才需求涵盖我市重点产业、重点领域28家单位，释放155个岗位，计划引才345人，全部为博士及以上学历，涉及工学、医学、经济学、理学、法学等11个专业大类，既立足当下产业攻坚的现实刚需，也兼顾培育新质生产力的长远布局。从“1144”现代化产业体系人才需求分布看，稀土先进制造旗帜型产业集群涵盖稀土冶金、粉末冶金、磁性材料等9个专业、12个岗位、需求26人；先进材料主导型产业集群涵盖材料科学与工程、化学、新能源材料等13个专业、8个岗位，需求20人；四个支柱型产业集群涵盖兵器科学与技术、控制科学与工程72个专业类别、16个岗位，需求49人；四个成长型产业集群涵盖人工智能、网络安全、低空经济、资源循环等29个专业方向、9个岗位，需求16人。本次企业急需紧缺人才需求涵盖我市重点产业、重点领域92家企业，释放313个岗位，计划引才2044人，其中硕士需求273人，本科需求603人，专科需求1168人，涵盖机械工程、材料冶金、电气自控、计算机人工智能、能源动力、地质土木、化工安全、数理基础等22大类学科门类，同步覆盖经管文法、艺术设计、医药农林、教育文旅等领域专业。从“1144”现代化产业体系人才需求分布看，稀土先进制造旗帜型产业集群涵盖稀土冶金、粉末冶金、磁性材料等9个专业、6个岗位、需求70人；先进材料主导型产业集群涵盖材料科学与工程、化学、新能源材料等13个专业、69个岗位、需求494人；四个支柱型产业集群涵盖兵器科学与技术、控制科学与工程等72个专业类别，共123个岗位、需求756人；四个成长型产业集群涵盖人工智能、网络安全、低空经济、资源循环等29个专业方向，29个岗位，需求150人。本次发布的《目录》包含单位简介、岗位类别、需求人数、学历要求、专业要求、岗位职责、能力及其他要求、相关待遇等核心内容，招聘岗位将根据用人单位实际需求动态更新，部分企业岗位线下发布，具体内容可现场咨询用人单位，事业单位岗位详情与报名信息以官方发布人才引进公告为准。求职者可扫描各类岗位需求二维码查看完整岗位信息，符合岗位条件的求职者可扫描指定二维码投递简历。中共包头市委组织部（市委人才办） 包头市人力资源和社会保障局 2026年9月9日",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "",
+      "applyUrl": "https://qcuwh.91wllm.cn/campus/view/id/1003871",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "campus_1003956",
+      "title": "广东省2026年“百万英才汇南粤”N城联动秋季 招聘活动——武汉大学站",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "校招公告",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "广东省2026年“百万英才汇南粤”N城联动秋季招聘活动——武汉大学站【举办时间】2026年9月16日9:30—12:00【举办地点】卓尔体育馆主馆为落实广东省委、省政府“百万英才汇南粤”行动计划部署2026年“百万英才汇南粤”N城联动秋季招聘活动以“万企进百校”专场形式送岗上门向全国优秀毕业生发出“粤聚英才、粤见未来”的秋季之约。9月16日，首场招聘将在武汉大学举行，由深圳市承办、罗湖区具体执行，近300家企业线下参会，带来超2万个岗位，共同拉开秋季招聘序幕。招聘规模扩大，现场体验也迎来升级：“AI硬科技”“广货优品”两大特色展区首次亮相，新增创业服务区，求职配套进一步扩容。找工作、看科技、逛好物、对接创业资源，这次值得多留一点时间。温馨提示：外校同学请携带学生证或校园卡入校哦 华为、腾讯、比亚迪、华润集团、中国平安、中金岭南、港华燃气、深圳供电局等知名企业，新凯来、深圳高新投等国有企业，影石创新、中科飞测、智平方、苍宇天基、深信服等高新技术企业，以及中山大学、国家超级计算深圳中心（深圳云计算中心）、深圳湾实验室等高校及科研院所将齐聚现场，带来丰富的就业和实习机会。岗位覆盖智慧医疗、金融科技、半导体／芯片、算力与大模型等领域，人工智能相关岗位是此次招聘的一大亮点。就业、实习机会都有。 观看机器人表演 “AI硬科技”展区里，众擎T800将展示格斗特技动作，逐际动力LimX Oli、数字华夏星行侠P2、高擎mini小派等多款人形机器人将带来协同舞蹈表演，灵心巧匠“钢琴大师”机器人现场弹奏钢琴，机械狗则通过越障、上下楼梯和踢球，展示灵活的运动能力。亲手“手搓”机器人看完表演，还可以到“手搓”机器人微工坊亲手试一试。在专业技术人员指导下，参与机械臂关键步骤的组装与调试，了解机械结构与控制指令如何配合，让机械臂动起来。 提前体验深圳魅力现场还有3D城市影像VR体验。戴上VR设备，从深圳的城市历史看到各处地标，在武大先“云端”逛一次深圳。除了体验硬科技这里还为你准备了一场沉浸式的“广府文化盛宴”本次招聘会首次在校内展陈广货优品新名片，还有专人讲解岭南文化产业故事、特区精神，用味道和创意让你读懂广东。 佳宁娜“给阿嬷的情酥”八马茶业即饮冷泡茶还有风行乳业的广式姜葱白切鸡口味牛奶广东味道这次有了新花样 继续逛，还会碰上变成毛绒玩偶的烧鹅做成积木的英歌舞原来广东的吃喝和传统文化还能这么玩在智能智造展台拓竹3D打印机将现场“施展魔法”打印带有广东元素的小纪念品让你见证“从数字到实物”的奇妙过程你还可以拿起LiberLive C2无弦吉他挥动感音空气架子鼓的鼓棒来一段自己的现场演奏现场还有广货优品盲盒可以领取！拆开看看，你会遇见哪种广东味道？ 看过这些产品也可以带着自己的创业想法到创业服务区找找答案 现场汇集20家深圳优秀创业孵化载体，带来超2000个创业办公卡位。场地怎么选、入驻有什么条件、能获得哪些支持，都可以现场了解。其中，璞跃中国大湾区国际创新中心、π创空间、中欧创新医药与健康研究中心、深圳市天使投资引导基金管理有限公司，共4家来自罗湖的创业孵化载体也将到场，为有创业想法的同学提供咨询对接。人才政策展示现场的“APEC·大湾区人才机遇”展板集中展示广东21个地市的人才及创新创业政策，方便同学们了解心仪城市的发展环境与支持措施。求职服务求职服务也准备好了！AI面试舱、AI简历诊断，帮你熟悉面试流程、完善简历；职业指导、职业妆造、简历打印等配套服务，让现场求职更从容。 别急着走罗湖还有惊喜投完简历不妨在罗湖人才礼遇专区多停留一会儿体验AI镜头签，参与现场游戏互动，再转一颗扭蛋，试试手气。是“满电出发”，还是“好运生风”？是“装满期待”，还是“前程在握”？小礼物连名字都在为你加油，看看你会抽中哪一份罗湖祝福！更多惊喜留到现场揭晓就在今年春天的“百万英才汇南粤”N城联动招聘活动武汉大学专场，田佳文、吴昊与九立供应链结缘，并顺利入职这家位于深圳罗湖的企业。9月16日9:30—12:00武汉大学卓尔体育馆主馆带上简历，来逛一场“粤”逛越有意思的招聘会期待下一次与你深圳见！",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "",
+      "applyUrl": "https://qcuwh.91wllm.cn/campus/view/id/1003956",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "campus_1004281",
+      "title": "武汉惜福文化传播有限公司",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "校招公告",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "企业简介：西西弗诞生于1993年，秉持“参与构成本地精神生活”的价值理念，深耕图书零售和阅读文化领域，坚持为大众读者持续提供优质的图书产品和阅读体验。近30年来，西西弗形成了一套完整复合的业务、管理、团队体系，集团总部细分20多个专业垂直管理系统，目前在全国拥有近500家全直营连锁店。 在泛文化领域框架下，西西弗以图书零售为主营业务，文创、轻餐饮、图书出版策划、文化活动等多线条业务立体发展。目前旗下有主品牌西西弗书店(SISYPHE BOOKS)，及矢量咖啡、不二生活文创、推石文化、7&12阅听课等子品牌。 从初期的理想人文书店，到体系化连锁发展，西西弗经历了从1.0到2.0的自我迭代塑造，当前正处于面向3.0阶段的全面升级构建之中。我们致力于在不久的未来，发展成为文化零售、文化内容、文化资源融合一体的文化平台服务商。 品牌优势：我们经历了疫情，至今仍处于上升期，正在稳步拓店中；我们不加盟不融资，一步一个脚印坚定的走自己的路；我们有强大的内训体系，80%的内部晋升比例，只要愿意学就有的升~每次升职都加薪； 招聘职位：书店/咖啡【实习-储备管理岗】一、 工作内容 ①（书店）1、向读者推荐好书、好物，帮他们找到喜欢的图书，助力销售达成；2、执行企业不同阶段的营销活动，完成销售目标；3、及时整理图书文创等，让顾客拥有一个良好的购物环境；4、针对顾客需求及时做出反应，给顾客营造良好的购物体验；工作内容 ②（咖啡）1、亲手调制精品咖啡，用一杯咖啡俘获顾客的心；2、给顾客推荐饮品，介绍充值卡让顾客享受优惠，确保销售达成；3、及时进行咖啡馆区整理等，让顾客拥有一个良好的购物环境；4、保证咖啡馆物资安全，确保出品卫生及健康；二、培养周期：6-12个月 1、完善的内部培养体系，每3个月进行岗位述职及考核，通过者即可获得晋升机会三、职位路径1、实习生 → 实习主管 → 转正主管 → 实习店长 → 转正店长（最快3个月即可升职）2、基本工资2400 → 2900 → 3300 → 5400 → 58003、其他奖金：排班补贴+团队奖金+个人激励（上不封顶）四、工作时间（周末不排休）1、上六休一，周末不排休，工作日6小时，周末8小时排班，吃饭时间45分钟；2、班次：早班9:00-15:45；中班12:00-20:45；晚班15:15-22:00【食宿自理】3、综合工时167小时/月，超出部分给予排班补贴；五、福利1、实习期内签订实习协议，毕业换签正式劳动合同缴纳社保2、亲临知名作家签售会+节日礼品六、工作地点：武汉市21家门店遍布武汉三镇核心商圈就近安排",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "",
+      "applyUrl": "https://qcuwh.91wllm.cn/campus/view/id/1004281",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "campus_1004352",
+      "title": "仟秋业 2026 校招｜全球跨境运营 & 国内电商火热招聘中",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "校招公告",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "一、关于我们武汉仟秋业信息科技有限公司成立于 2019 年，坐落于武昌中心城区，以「极致・热爱」为信仰，深耕中高端 3C 数码影音全领域。公司同步布局全球跨境与国内电商双赛道，拥有 2000 余款全品类产品供应链与百万级现货储备，实现线上线下、国内外批发零售深度融合，为中小卖家提供一站式服务，业内口碑卓著。目前公司正处于全球业务高速扩张期，从武汉出发，业务辐射全球市场。产品与供应链覆盖音响、麦克风、声卡、相机、投影仪、智能家电、户外装备、个护健康等 2000 余款热销品类，四季领跑行业潮流。全品类供应链体系成熟，打造上百款高性价比爆款，百万级现货储备稳居行业前列，可灵活支持批发、代发等多种合作模式，高效赋能中小卖家成长。全球业务布局国内赛道：深耕拼多多、淘宝、京东、抖音小店、小红书、闲鱼、微信小店等全渠道，覆盖运营、引流、直播、私域等多元业务形态跨境赛道：主攻速卖通、Ozon、Shopee、TikTok、Amazon、eBay、Fruugo、敦煌网等核心平台，聚焦 3C 数码配件及智能设备出海，剑指全球零售与批发市场创始人理念创始人来自黄冈罗田九资河，93 年生，温厚重情，笃信「真正的成功不是一个人的远行，而是一群人的同行」。在实业根基稳固的基础上，二次创业组建「星途数码战队」，进军文娱与全球数码赛道，持续探索人生与事业的更多可能。十年发展历程2017 年・萌芽：梦想种子悄然埋下，所有参天大树都始于一次无畏的破土2018 年・准备：厚积薄发，潜心打磨供应链，深耕产品核心竞争力2019 年・启程：落地武昌中心城区，以「为发烧而生」的初心开启梦想旅程2020 年・扎根：从单一品类到全品类拓展，从零星订单到业绩稳定增长2021-2022 年・生长：供应链日臻完善，产品矩阵突破千款，现货储备跃升百万级2023 年・跃升：线上线下双轮驱动，批发、零售、代发多元业务并行发展2024 年・蓄力：回望来路沉淀思考，探索企业文化、品牌温度与更多发展可能2025 年・破局：传统业务稳健成熟，二次创业跨界探索新领域2026 年・重生：全面转型全球业务，向所有心中有光的人发出邀请2027 年・全球远航：从武汉到世界，从国内到跨境，驶入全球市场的星辰大海团队文化我们曾和你一样，在人海中穿行，在迷茫中坚守。如今，愿成为你前行路上的光，给你温暖，也给你方向。 我们不在意你的来路，只看重你的去路。只要你有梦想、有热忱、有韧性，脚踏实地，敢想敢为 —— 我们愿与你并肩，共赴山海，共创未来，把平凡的日子过成不朽的诗篇。二、招聘岗位及职责（一）国内电商运营方向国内电商方向覆盖平台： 淘宝・拼多多・京东・抖音・小红书・闲鱼・微信小店全域客服专员（重点招聘）拼多多 / 京东 / 淘宝运营自媒体内容引流专员抖音 / 快手小店运营小红书种草运营微信小店私域运营（二）跨境电商运营方向覆盖平台： 速卖通・Shopee・TikTok・eBay・Amazon・Fruugo・敦煌网・Ozon速卖通运营（全球 B2C）Ozon 运营（俄罗斯市场）Shopee 运营（东南亚）TikTok 运营（短视频 + 直播）Amazon 运营（欧美主流市场）Fruugo/eBay 运营（欧美）阿里国际站 / 敦煌网（全球 B2B）通用岗位职责负责对应平台店铺的日常运营与维护工作完成选品上架、listing 优化、活动报名及数据分析处理客户咨询与售后问题，维护店铺评分与账号安全跟进物流与库存状态，确保订单及时履约三、任职要求经济与贸易类、外语类、电子商务等相关专业优先，应届生欢迎投递年龄 18-35 周岁，学历、工作经验不限，零基础可带薪培训熟练打字，具备基础电脑操作能力；简单英文可借助翻译工具完成情绪稳定，耐心细致，抗压能力强，做事踏实靠谱学习执行力强，会灵活使用各类 AI 工具，愿意长期稳定发展对电商行业有热情，愿意从客服基础岗做起，具备独立带店潜力者纳入重点培养有电商 / 跨境从业经验、熟悉 3C 数码产品者优先录用我们更看重潜力和态度，不拘泥学历，不执着过往，不设限标签四、薪酬与福利体系薪酬构成综合月薪 6000-15000 元，上不封顶，能者多得，入职起薪 6500-7499 元 / 月（底薪 + 提成 + 绩效）阶梯底薪：2500-7500 元阶梯式增长，成长节奏清晰透明五重业务提成（可叠加）：店铺带店提成、业绩增长提成、批发代发提成、线下零售提成、线下活动专项提成多重奖金：全勤奖、绩效奖、服务态度奖、效率奖、工龄奖、优秀员工奖、团队管理奖等福利保障调薪机制：入职 1-3 月、4-5 月、6-7 月均可申请调薪，单次调薪约 500 元补贴福利：中班补贴 30 元 / 天、加班补贴 150-200 元 / 天、节日福利 100 元生活保障：包工作餐，可提供住宿作息安排：月休 4 天调休制，",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "",
+      "applyUrl": "https://qcuwh.91wllm.cn/campus/view/id/1004352",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "campus_1004490",
+      "title": "百万英才汇南粤  2026年N城联动秋季招聘活动",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "校招公告",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "粤聚英才 粤见未来 百万英才汇南粤 2026年N城联动秋季招聘活动 学校：湖北大学时间：9月17日上午09:00-12:00 地点：武昌校区创新创业大楼线下招聘企事业单位70家，岗位4795个。 扫码查看更多企业岗位信息&投递简历 学校：中国地质大学（武汉）时间： 9月17日下午14:00-17:00 地点：南望山校区大学生活动中心二楼线下招聘企事业单位82家，岗位5148个。 扫码查看更多企业岗位信息&投递简历 学校：武汉理工大学时间：9月18日上午09:00-12:00 地点：马房山校区东院广场线下招聘企事业单位109家，岗位7218个。 扫码查看更多企业岗位信息&投递简历 学校：武汉科技大学时间：9月18日下午14:00-17:00 地点：黄家湖校区沁湖体育馆前其中线下招聘企事业单位74家，岗位5154个。 扫码查看更多企业岗位信息&投递简历 学校：中南财经政法大学时间：9月19日上午09：00-12：00地点：南湖校区文谭楼停车场+一楼大厅线下招聘企事业单位53家，岗位3325个。 扫码查看更多企业岗位信息&投递简历 学校：华中师范大学时间：9月19日下午14：00-17：00地点：新大学生活动中心二楼招聘大厅 线下招聘企事业单位57家，岗位3385个。 扫码查看更多企业岗位信息&投递简历",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "",
+      "applyUrl": "https://qcuwh.91wllm.cn/campus/view/id/1004490",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "campus_1004498",
+      "title": "衣臻时装有限公司27届秋招",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "校招公告",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "▌YI衣臻时装有限公司2027届 秋季校园招聘YI群美丽的人，做YI份美丽的事业A collective of beautiful souls, dedicated to a beautiful misson网申链接：https://yiconcept.zhiye.com/campus【公司简介】衣臻时装有限公司为宏珏高级时装旗下的全资子公司，借助宏珏高级时装强大的运营管理能力及国际影响力，以经营顶尖华人设计师品牌为主线，开创与拓展高级女装行业新局面，成就华人在高级时装领域的事业。【品牌简介】衣臻时装有限公司旗下的时装品牌YI，是一个根植于中华五千年文明的中国品牌，以中国上下五千年的文化瑰宝为背书，以中国最璀璨的宋代文化为品牌美学起点，以宋代精神领袖代表苏东坡的人文精神为灵感源泉。 YI品牌以宋代美学为创作灵感，以“知行合一，自在商旅”为品牌理念，致力于为行走中的东方知识女性打造精致且舒适的商旅衣橱。【品牌愿景】YI打造的不仅仅是一个国际化轻奢女装品牌，更是一种文化标识与生活方式。YI将服装传达的美学文化延伸至现代生活的各个方面，承载了在世界舞台催生中国时尚力量的美好愿景。更多参考信息：品牌公众号/小红书：YI衣臻品牌招聘公众号/小红书：衣臻招聘招聘官网：yiconcept.zhiye.com网申链接：https://yiconcept.zhiye.com/campus/jobs类别一：零售类（全国多个热门城市可选）【岗位一：时尚精英管培生/储备店长/储备店经】工作职责：YI以宋代文化为美学起点，融合东西方人文气质和精湛工艺，为追求「内心自由，外物自在」的商旅人士提供创造性解决方案，传达独一无二的美学风尚。时尚精英管培生工作内容将围绕个人销售与门店业绩目标达成展开，全面参与门店运营，并逐步向奢侈品零售管理培养（培养至店长助理平均时间为2年，培养至店长平均时间为3年）。核心内容包括：1）顾问式服务：系统学习奢侈品行业的产品知识、品牌历史及销售技巧，深入了解品牌文化与价值。以顾客需求为中心，提供一对一的专业服装搭配建议和个性化购物体验，提升客户满意度和复购率；2）新零售业务：负责门店及个人品牌自媒体账号（如小红书、视频号、抖音、直播等）的搭建与日常运营，策划并执行内容推广计划。定期分析运营数据，优化发布策略，增强粉丝互动与粘性，通过新媒体渠道有效促进销售转化与品牌传播；3）艺术积累：系统研修奢侈品流行趋势、面料特性、服装工艺及品牌特有的宋代美学元素，掌握视觉陈列基本原理与实际操作。定期参加品牌内部培训与外部时装活动，持续提升商品认知和审美能力；4）CRM体系：深入分析奢侈品客户的消费行为与全生命周期价值，建立完善的客户档案。通过定期回访、专属活动邀约及个性化服务，增强客户关系，培养高忠诚度的VIP群体，提升复购与品牌认同；5）活动协助：协助门店与所在商场物业保持良好合作关系，积极参与品牌活动日、VIP品鉴会等公关活动的筹备与执行。通过活动曝光增强品牌影响力，挖掘潜在客户，推动销售业绩增长；6）门店运营：全面参与门店的日常运作，包括库存管理、收银操作、售后处理、环境维护等基础事务，保障门店运营顺畅高效，提升整体顾客体验；7）店铺陈列：协助完成店内陈列调整与主题布置，根据销售动态和货品结构优化产品展示，提升店铺视觉效果与空间叙事性，创造更具吸引力的购物环境，间接推动业绩提升。工作时间：每月例休4-5日，每日工作时间为6.5小时，采用轮班制灵活排班。早班：09:00-16:00（含30分钟午餐休息）晚班：15:00-22:00（含30分钟晚餐休息）*具体工作时间会根据商场营业时间调整*因零售行业特性，休息方式为排休，休息日一般安排在周一到周五之间，敬请知悉并理解行业特殊的工作时间安排工作环境：各城市核心商圈奢侈品商场YI品牌门店，交通便利，冬暖夏凉。职业发展（多重赛道）：主路径①：门店管理方向：打造综合门店运营管理体系，管理门店业绩输出，持续创造门店业绩增量，培养输出零售人才，未来成长方向为区域经理；主路径②：销售专家方向：深耕销售领域，从销售中坚力量到成为销售专业化指导员，未来成长方向为区域督导；辅路径①：品牌搭配师方向：第一年以门店销售身份学习货品、销售技巧及客户画像；次年考核合格者转向搭配师培养，输出穿搭方案与视觉素材，开展内部搭配培训，未来成长为品牌资深搭配专家或培训专家；辅路径②：电商主播方向：第一年以门店销售身份学习货品、销售技巧及客户画像；次年起base深圳总部，深耕直播带货与流量运营，完成线上业绩转化，未来成长为品牌核心电商主播。工作城市：特级城市：北京/上海/深圳一线城市：广州/南京/杭州其他城市：西安/成都/重庆/武汉/天津/济南/青岛/兰州/常州/无锡/长沙/南宁/郑州/镇江/合肥/贵阳**面试前10名会进入快速培",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "",
+      "applyUrl": "https://qcuwh.91wllm.cn/campus/view/id/1004498",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "campus_1004862",
+      "title": "湖南银行2027届全球校园招聘启事",
+      "company": "见原文",
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "",
+      "category": "校招公告",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "湖南银行2027届全球校园招聘启事 湖南银行股份有限公司（简称“湖南银行”）是一家注册地位于长沙市的区域性股份制商业银行，属湖南省管国有控股金融企业。湖南省财政厅履行国有金融资本出资人职责。注册资本人民币87.5亿元。第一大股东为湖南财信金融控股集团有限公司，集团合计持股比例35.85%；第二大股东为中央汇金投资有限公司，持股比例17.71%。湖南银行紧紧围绕湖南经济社会发展战略，立足湖南、依托湖南、服务湖南，实现了良好发展。在湖南省14个市州设立分行，业务网络覆盖全省。连续获评湖南“平安单位”、中诚信国际主体信用AAA级别，已成为一家各项监管指标优良、综合排名在全国前列的城商行。截至2026年6月末，全行资产规模超6500亿元。新时代、新征程。湖南银行2027届全球校园招聘现已启动，这里有良好的工作氛围、优厚的薪酬待遇、广阔的发展平台，诚邀充满激情的你，开启新未来！一、应聘基本条件（一）应聘人员应同时符合以下基本条件1.具有良好的职业操守和个人品行，遵纪守法，诚实守信，无违法违纪行为及其他不良记录；2.身心健康，具有较强的敬业精神、团队意识和大局意识，认同本行企业文化，服从工作安排；3.具有国家教育主管部门认定的本科及以上学历。统招学历人员必须为通过全国统一的高考或研究生入学考试，在国内普通高等学校或承担研究生教育任务的科学研究机构就读，且就读期间个人档案、组织关系保管在就读院校（或科研机构）；4.符合监管部门发布的银行从业人员资格要求，具有与岗位要求相适应的工作经验和工作能力；5.满足本行明确的年龄、学历、专业资格等其他招聘条件；6.符合本行亲属回避有关要求。（二）具有下列情形之一的人员不得报考1.曾因犯罪受过刑事处罚，或违反用人单位规章制度被开除、辞退；2.有不良从业记录，被行业组织或监管机构通报的，或因涉及案件或违纪违规问题尚在调查阶段，未得出结论的，或曾被列入银行业从业人员“黑名单”、“灰名单”的；3.在各级各类公开招聘中违反相关规定被记入公开招聘应聘人员诚信档案库，且记录期限未满的；4.被纳入或曾被纳入失信人名单的；5.其他明显不适宜金融从业的情形。二、招聘岗位及用工形式序号招聘单位招聘岗位用工形式1总行本部总行管培生湖南银行合同制员工2长沙地区分行长沙地区分行校招生湖南银行合同制员工3株洲分行、湘潭分行、衡阳分行、岳阳分行、邵阳分行、常德分行、郴州分行非长沙地区分行校招生湖南银行合同制员工三、薪酬福利（一）市场化的薪酬福利机制：具备竞争力的薪酬体系，兼顾短期和中长期激励。（二）完备的福利保障体系：七险两金、健康体检、带薪休假、节日福利、大事福利、生日慰问、劳保物资、行服清洗、防暑降温物品、交通补贴、通讯补贴、餐补、兴趣小组、免费健身房、员工食堂等。（三）长沙市“人才新政”1、落户补贴：35周岁(含)以下毕业两年内，新落户并在长工作的博士、硕士、本科毕业生(机关事业单位在编人员除外)，分别给予3万元、2万元、1.2万元租房和生活补贴。对落户并在长工作的境外高校博士毕业生，租房和生活补贴提高至10万元。2、购房补贴：35周岁(含)以下、新来长工作的博士、硕士毕业生(机关事业单位在编人员除外)，在长首次购房分别给予10万元、3万元购房补贴(境外高校博士毕业生不限年龄)。四、招聘流程简历投递——笔试——初面——测评——终面——体检（严格参照公务员体检标准）/背景调查——录用五、应聘须知（一）登录https://campus.51job.com/hnbank，或扫描下方二维码查看具体岗位职责及应聘条件进行报名(如已在其他渠道投递，仍需至本行指定官方招聘网站投递方可认定简历投递成功)。 （二）应聘者在线投递简历时，须按要求填写相关信息并上传本人近期证件照、学历学位证书、学信网电子注册备案表（境内高校毕业生）、教育部留学服务中心认证（国（境）外高校毕业生）、各类资格证书及获奖证书等。应届生未取得学历学位证书前，提交学信网学籍在线验证报告（国（境）外高校毕业生提供在读证明）。（三）每人限投一个岗位。应聘者进行岗位投递时，须满足岗位所需的年龄、学历、专业、毕业时间等要求。境内高校毕业生须在2027年1月1日至2027年7月31日期间毕业，报到时须获得国家认可的毕业证和学位证；境外高校毕业生须在2026年8月1日至2027年7月31日期间毕业，报到时须获得国家教育部出具的学历学位认证书（认证时间最晚不超过2027年8月31日）。（四）本行将根据应聘者报名信息，对照招聘条件择优进行网上资格审核，资格审核通过者方可进入下一环节，资格审核将贯穿招聘全过程各环节直至正式录用后。若发现有不符合应聘条件或弄虚作假的，将取消应聘者参加考试和录用资格，签订了劳动合同的解除劳动合同。六、注意事项（一）本次校园招聘报名截止日期：2026年10月31日1",
+      "requirements": [],
+      "tags": [
+        "武汉晴川学院",
+        "官方渠道"
+      ],
+      "source": "wllm-武汉晴川学院",
+      "postedAt": "",
+      "applyUrl": "https://qcuwh.91wllm.cn/campus/view/id/1004862",
+      "expired": false,
+      "riskScore": 20
+    },
+    {
+      "id": "fake_001",
+      "title": "刷单兼职 日结500-800 无经验秒过",
+      "company": "",
+      "province": "",
+      "city": "全国",
+      "district": "",
+      "category": "兼职",
+      "salaryMin": 500,
+      "salaryMax": 800,
+      "salaryType": "daily",
+      "education": "不限",
+      "experience": "不限",
+      "description": "动动手指点点链接，佣金日结秒到账，在家躺赚，名额有限速加客服咨询。",
+      "requirements": [
+        "无需任何经验",
+        "有手机即可"
+      ],
+      "tags": [
+        "日结",
+        "在家兼职"
+      ],
+      "source": "demo-fake",
+      "postedAt": "2026-11-06",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 100,
+      "riskFlags": [
+        {
+          "reason": "命中刷单/垫付返款类典型诈骗话术",
+          "score": 35
+        },
+        {
+          "reason": "含「躺赚/动动手指」类夸大话术",
+          "score": 25
+        },
+        {
+          "reason": "日薪 800 元远超兼职合理水平（≤400 元/天）",
+          "score": 30
+        },
+        {
+          "reason": "无明确公司主体或公司名含引流备注",
+          "score": 20
+        },
+        {
+          "reason": "「零门槛」与「超高薪」组合，典型诈骗特征",
+          "score": 25
+        }
+      ]
+    },
+    {
+      "id": "fake_002",
+      "title": "高薪主播培训 月入5万不是梦",
+      "company": "星梦传媒（联系时说明）",
+      "province": "",
+      "city": "全国",
+      "district": "",
+      "category": "兼职",
+      "salaryMin": 50000,
+      "salaryMax": 50000,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "零基础招募女主播，公司提供专业包装，需预交998元服装与培训押金，上岗后返还。",
+      "requirements": [
+        "年龄18-28",
+        "形象好",
+        "先交押金占位"
+      ],
+      "tags": [
+        "高薪",
+        "颜值即正义"
+      ],
+      "source": "demo-fake",
+      "postedAt": "2026-11-06",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 95,
+      "riskFlags": [
+        {
+          "reason": "入职前收取费用（押金/保证金类），正规岗位不会收费",
+          "score": 30
+        },
+        {
+          "reason": "月薪上限 50000 元超过「兼职」合理分位（约 ≤6000 元）的 2 倍",
+          "score": 30
+        },
+        {
+          "reason": "无明确公司主体或公司名含引流备注",
+          "score": 20
+        },
+        {
+          "reason": "描述空洞但承诺极高回报",
+          "score": 15
+        }
+      ]
+    },
+    {
+      "id": "fake_003",
+      "title": "打字员 1000字30元 当天结算",
+      "company": "",
+      "province": "",
+      "city": "全国",
+      "district": "",
+      "category": "兼职",
+      "salaryMin": 1500,
+      "salaryMax": 3000,
+      "salaryType": "daily",
+      "education": "不限",
+      "experience": "不限",
+      "description": "在家动动手指，小说手打录入，多劳多得，需缴纳200元系统保证金即可开工。",
+      "requirements": [
+        "会打字就行",
+        "加QQ 88xx66 领取任务"
+      ],
+      "tags": [
+        "在家工作",
+        "当天结算"
+      ],
+      "source": "demo-fake",
+      "postedAt": "2026-11-05",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 100,
+      "riskFlags": [
+        {
+          "reason": "入职前收取费用（押金/保证金类），正规岗位不会收费",
+          "score": 30
+        },
+        {
+          "reason": "含「躺赚/动动手指」类夸大话术",
+          "score": 25
+        },
+        {
+          "reason": "以个人社交账号引流，绕开正规投递渠道",
+          "score": 15
+        },
+        {
+          "reason": "日薪 3000 元远超兼职合理水平（≤400 元/天）",
+          "score": 30
+        },
+        {
+          "reason": "无明确公司主体或公司名含引流备注",
+          "score": 20
+        }
+      ]
+    },
+    {
+      "id": "fake_004",
+      "title": "0基础月薪2万 IT岗 先就业后付款",
+      "company": "卓越未来教育（工作推荐部）",
+      "province": "",
+      "city": "全国",
+      "district": "",
+      "category": "培训",
+      "salaryMin": 20000,
+      "salaryMax": 20000,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "四个月特训保进大厂，学费可办培训贷上岗后再还，签就业协议，不过退款（扣手续费）。",
+      "requirements": [
+        "无学历要求",
+        "可协助办理培训贷款",
+        "名额仅剩3个"
+      ],
+      "tags": [
+        "保就业",
+        "先学后付"
+      ],
+      "source": "demo-fake",
+      "postedAt": "2026-11-05",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 85,
+      "riskFlags": [
+        {
+          "reason": "涉嫌「培训贷」套路（贷款培训、上岗还贷）",
+          "score": 35
+        },
+        {
+          "reason": "含「保录取/保就业」类承诺，正规招聘不作此类保证",
+          "score": 20
+        },
+        {
+          "reason": "月薪上限 20000 元超过「培训」合理分位（约 ≤8000 元）的 2 倍",
+          "score": 30
+        }
+      ]
+    },
+    {
+      "id": "fake_005",
+      "title": "境外高薪务工 月薪5万包机票",
+      "company": "",
+      "province": "",
+      "city": "境外",
+      "district": "",
+      "category": "劳务",
+      "salaryMin": 50000,
+      "salaryMax": 80000,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "东南亚高端商务随行，待遇优厚，学历年龄不限，报名即送往返机票，速联系微信报名占位。",
+      "requirements": [
+        "护照即可",
+        "无需技能",
+        "保密出行"
+      ],
+      "tags": [
+        "境外",
+        "超高薪"
+      ],
+      "source": "demo-fake",
+      "postedAt": "2026-11-04",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 100,
+      "riskFlags": [
+        {
+          "reason": "境外高薪+保密出行，高度疑似境外务工诈骗",
+          "score": 45
+        },
+        {
+          "reason": "月薪上限 80000 元超过「劳务」合理分位（约 ≤10000 元）的 2 倍",
+          "score": 30
+        },
+        {
+          "reason": "无明确公司主体或公司名含引流备注",
+          "score": 20
+        },
+        {
+          "reason": "岗位地点为境外且待遇异常优厚",
+          "score": 25
+        },
+        {
+          "reason": "「零门槛」与「超高薪」组合，典型诈骗特征",
+          "score": 25
+        }
+      ]
+    },
+    {
+      "id": "fake_006",
+      "title": "点赞员 单价2元 日入600起",
+      "company": "",
+      "province": "",
+      "city": "全国",
+      "district": "",
+      "category": "兼职",
+      "salaryMin": 600,
+      "salaryMax": 1200,
+      "salaryType": "daily",
+      "education": "不限",
+      "experience": "不限",
+      "description": "给短视频点赞关注即可赚取佣金，做完立返本金加佣金，垫付越多赚越多，加客服入群。",
+      "requirements": [
+        "有微信即可",
+        "先垫付后返款"
+      ],
+      "tags": [
+        "日结",
+        "手机兼职"
+      ],
+      "source": "demo-fake",
+      "postedAt": "2026-11-04",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 100,
+      "riskFlags": [
+        {
+          "reason": "命中刷单/垫付返款类典型诈骗话术",
+          "score": 35
+        },
+        {
+          "reason": "以个人社交账号引流，绕开正规投递渠道",
+          "score": 15
+        },
+        {
+          "reason": "日薪 1200 元远超兼职合理水平（≤400 元/天）",
+          "score": 30
+        },
+        {
+          "reason": "无明确公司主体或公司名含引流备注",
+          "score": 20
+        }
+      ]
+    }
+  ],
+  "fakeSamples": [
+    {
+      "id": "fake_001",
+      "title": "刷单兼职 日结500-800 无经验秒过",
+      "company": "",
+      "province": "",
+      "city": "全国",
+      "district": "",
+      "category": "兼职",
+      "salaryMin": 500,
+      "salaryMax": 800,
+      "salaryType": "daily",
+      "education": "不限",
+      "experience": "不限",
+      "description": "动动手指点点链接，佣金日结秒到账，在家躺赚，名额有限速加客服咨询。",
+      "requirements": [
+        "无需任何经验",
+        "有手机即可"
+      ],
+      "tags": [
+        "日结",
+        "在家兼职"
+      ],
+      "source": "demo-fake",
+      "postedAt": "2026-11-06",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 100,
+      "riskFlags": [
+        {
+          "reason": "命中刷单/垫付返款类典型诈骗话术",
+          "score": 35
+        },
+        {
+          "reason": "含「躺赚/动动手指」类夸大话术",
+          "score": 25
+        },
+        {
+          "reason": "日薪 800 元远超兼职合理水平（≤400 元/天）",
+          "score": 30
+        },
+        {
+          "reason": "无明确公司主体或公司名含引流备注",
+          "score": 20
+        },
+        {
+          "reason": "「零门槛」与「超高薪」组合，典型诈骗特征",
+          "score": 25
+        }
+      ]
+    },
+    {
+      "id": "fake_002",
+      "title": "高薪主播培训 月入5万不是梦",
+      "company": "星梦传媒（联系时说明）",
+      "province": "",
+      "city": "全国",
+      "district": "",
+      "category": "兼职",
+      "salaryMin": 50000,
+      "salaryMax": 50000,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "零基础招募女主播，公司提供专业包装，需预交998元服装与培训押金，上岗后返还。",
+      "requirements": [
+        "年龄18-28",
+        "形象好",
+        "先交押金占位"
+      ],
+      "tags": [
+        "高薪",
+        "颜值即正义"
+      ],
+      "source": "demo-fake",
+      "postedAt": "2026-11-06",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 95,
+      "riskFlags": [
+        {
+          "reason": "入职前收取费用（押金/保证金类），正规岗位不会收费",
+          "score": 30
+        },
+        {
+          "reason": "月薪上限 50000 元超过「兼职」合理分位（约 ≤6000 元）的 2 倍",
+          "score": 30
+        },
+        {
+          "reason": "无明确公司主体或公司名含引流备注",
+          "score": 20
+        },
+        {
+          "reason": "描述空洞但承诺极高回报",
+          "score": 15
+        }
+      ]
+    },
+    {
+      "id": "fake_003",
+      "title": "打字员 1000字30元 当天结算",
+      "company": "",
+      "province": "",
+      "city": "全国",
+      "district": "",
+      "category": "兼职",
+      "salaryMin": 1500,
+      "salaryMax": 3000,
+      "salaryType": "daily",
+      "education": "不限",
+      "experience": "不限",
+      "description": "在家动动手指，小说手打录入，多劳多得，需缴纳200元系统保证金即可开工。",
+      "requirements": [
+        "会打字就行",
+        "加QQ 88xx66 领取任务"
+      ],
+      "tags": [
+        "在家工作",
+        "当天结算"
+      ],
+      "source": "demo-fake",
+      "postedAt": "2026-11-05",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 100,
+      "riskFlags": [
+        {
+          "reason": "入职前收取费用（押金/保证金类），正规岗位不会收费",
+          "score": 30
+        },
+        {
+          "reason": "含「躺赚/动动手指」类夸大话术",
+          "score": 25
+        },
+        {
+          "reason": "以个人社交账号引流，绕开正规投递渠道",
+          "score": 15
+        },
+        {
+          "reason": "日薪 3000 元远超兼职合理水平（≤400 元/天）",
+          "score": 30
+        },
+        {
+          "reason": "无明确公司主体或公司名含引流备注",
+          "score": 20
+        }
+      ]
+    },
+    {
+      "id": "fake_004",
+      "title": "0基础月薪2万 IT岗 先就业后付款",
+      "company": "卓越未来教育（工作推荐部）",
+      "province": "",
+      "city": "全国",
+      "district": "",
+      "category": "培训",
+      "salaryMin": 20000,
+      "salaryMax": 20000,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "四个月特训保进大厂，学费可办培训贷上岗后再还，签就业协议，不过退款（扣手续费）。",
+      "requirements": [
+        "无学历要求",
+        "可协助办理培训贷款",
+        "名额仅剩3个"
+      ],
+      "tags": [
+        "保就业",
+        "先学后付"
+      ],
+      "source": "demo-fake",
+      "postedAt": "2026-11-05",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 85,
+      "riskFlags": [
+        {
+          "reason": "涉嫌「培训贷」套路（贷款培训、上岗还贷）",
+          "score": 35
+        },
+        {
+          "reason": "含「保录取/保就业」类承诺，正规招聘不作此类保证",
+          "score": 20
+        },
+        {
+          "reason": "月薪上限 20000 元超过「培训」合理分位（约 ≤8000 元）的 2 倍",
+          "score": 30
+        }
+      ]
+    },
+    {
+      "id": "fake_005",
+      "title": "境外高薪务工 月薪5万包机票",
+      "company": "",
+      "province": "",
+      "city": "境外",
+      "district": "",
+      "category": "劳务",
+      "salaryMin": 50000,
+      "salaryMax": 80000,
+      "salaryType": "monthly",
+      "education": "不限",
+      "experience": "不限",
+      "description": "东南亚高端商务随行，待遇优厚，学历年龄不限，报名即送往返机票，速联系微信报名占位。",
+      "requirements": [
+        "护照即可",
+        "无需技能",
+        "保密出行"
+      ],
+      "tags": [
+        "境外",
+        "超高薪"
+      ],
+      "source": "demo-fake",
+      "postedAt": "2026-11-04",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 100,
+      "riskFlags": [
+        {
+          "reason": "境外高薪+保密出行，高度疑似境外务工诈骗",
+          "score": 45
+        },
+        {
+          "reason": "月薪上限 80000 元超过「劳务」合理分位（约 ≤10000 元）的 2 倍",
+          "score": 30
+        },
+        {
+          "reason": "无明确公司主体或公司名含引流备注",
+          "score": 20
+        },
+        {
+          "reason": "岗位地点为境外且待遇异常优厚",
+          "score": 25
+        },
+        {
+          "reason": "「零门槛」与「超高薪」组合，典型诈骗特征",
+          "score": 25
+        }
+      ]
+    },
+    {
+      "id": "fake_006",
+      "title": "点赞员 单价2元 日入600起",
+      "company": "",
+      "province": "",
+      "city": "全国",
+      "district": "",
+      "category": "兼职",
+      "salaryMin": 600,
+      "salaryMax": 1200,
+      "salaryType": "daily",
+      "education": "不限",
+      "experience": "不限",
+      "description": "给短视频点赞关注即可赚取佣金，做完立返本金加佣金，垫付越多赚越多，加客服入群。",
+      "requirements": [
+        "有微信即可",
+        "先垫付后返款"
+      ],
+      "tags": [
+        "日结",
+        "手机兼职"
+      ],
+      "source": "demo-fake",
+      "postedAt": "2026-11-04",
+      "applyUrl": "",
+      "expired": false,
+      "riskScore": 100,
+      "riskFlags": [
+        {
+          "reason": "命中刷单/垫付返款类典型诈骗话术",
+          "score": 35
+        },
+        {
+          "reason": "以个人社交账号引流，绕开正规投递渠道",
+          "score": 15
+        },
+        {
+          "reason": "日薪 1200 元远超兼职合理水平（≤400 元/天）",
+          "score": 30
+        },
+        {
+          "reason": "无明确公司主体或公司名含引流备注",
+          "score": 20
+        }
+      ]
+    }
+  ]
 }

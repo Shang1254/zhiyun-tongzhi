@@ -1,4 +1,4 @@
-/* 知云同职 Service Worker · 构建于 2026-11-10T01:39:31.347Z */
+/* 知云同职 Service Worker · 构建于 2026-11-10T01:46:46.542Z */
 const CACHE = 'zy-1.5.1-2026-11-10';
 const PRECACHE = [
   "./",
