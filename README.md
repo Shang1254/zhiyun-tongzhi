@@ -6,6 +6,9 @@
 
 ![技术栈](https://img.shields.io/badge/Android-WebView_壳-1E6FFF) ![后端](https://img.shields.io/badge/Node.js-Express_+_SQLite-1E6FFF) ![定位](https://img.shields.io/badge/%E5%AE%9A%E4%BD%8D-%E5%85%AC%E7%9B%8A%E5%85%8D%E8%B4%B9-16a34a)
 
+> **在线地址（GitHub Pages，海外托管）**：https://shang1254.github.io/zhiyun-tongzhi/
+> 源码仓库：https://github.com/Shang1254/zhiyun-tongzhi（`main` 为源码，`gh-pages` 为站点）
+
 ## 核心能力
 
 | 模块 | 说明 |
